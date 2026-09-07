@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "musculoskeletal_system",
+    "front": "What is a Maitland Grade I joint mobilization?",
+    "back": "A small amplitude oscillation performed at the beginning of available range, used primarily to reduce pain rather than increase range of motion."
+  },
+  {
+    "id": 2,
+    "domain": "musculoskeletal_system",
+    "front": "What is a Maitland Grade II mobilization?",
+    "back": "A large amplitude oscillation performed within the available range of motion but not reaching the end of range, used to reduce pain and gently improve mobility."
+  },
+  {
+    "id": 3,
+    "domain": "musculoskeletal_system",
+    "front": "What is a Maitland Grade III mobilization?",
+    "back": "A large amplitude oscillation that moves into tissue resistance up to the limit of available range, used to address stiffness and increase range of motion."
+  },
+  {
+    "id": 4,
+    "domain": "musculoskeletal_system",
+    "front": "What is a Maitland Grade IV mobilization?",
+    "back": "A small amplitude oscillation performed at the very end of available range into tissue resistance, used to increase range when stiffness rather than pain limits movement."
+  },
+  {
+    "id": 5,
+    "domain": "musculoskeletal_system",
+    "front": "What is a Grade V mobilization also called, and how does it differ from Grades I to IV?",
+    "back": "A high velocity low amplitude thrust manipulation taken past the physiologic limit to the anatomic limit, delivered as a fast small thrust rather than a slow oscillation."
+  },
+  {
+    "id": 6,
+    "domain": "musculoskeletal_system",
+    "front": "In the Kaltenborn grading system, what does a Grade I traction accomplish?",
+    "back": "It nullifies joint compression forces without actually separating the joint surfaces, used to reduce pain and is often applied before any glide or oscillation technique."
+  },
+  {
+    "id": 7,
+    "domain": "musculoskeletal_system",
+    "front": "In the Kaltenborn system, what is the difference between Grade II and Grade III traction?",
+    "back": "Grade II takes up the slack in the joint capsule to the first point of tissue resistance, while Grade III stretches the capsule beyond that point to increase joint mobility."
+  },
+  {
+    "id": 8,
+    "domain": "musculoskeletal_system",
+    "front": "What is the concave-convex rule used for in joint mobilization?",
+    "back": "It predicts the direction the convex or concave bony surface should glide relative to the direction the bone is rolling, guiding which glide direction restores or improves joint motion."
+  },
+  {
+    "id": 9,
+    "domain": "musculoskeletal_system",
+    "front": "According to the convex-concave rule, if a convex surface moves on a fixed concave surface, which direction does the roll and glide occur?",
+    "back": "The roll and the glide occur in opposite directions, so if the bone rolls anteriorly the convex surface glides posteriorly."
+  },
+  {
+    "id": 10,
+    "domain": "musculoskeletal_system",
+    "front": "What special test assesses anterior cruciate ligament integrity by applying an anterior force to the tibia with the knee flexed 20 to 30 degrees?",
+    "back": "The Lachman test, considered the most sensitive clinical test for ACL rupture."
+  },
+  {
+    "id": 11,
+    "domain": "musculoskeletal_system",
+    "front": "What is a positive McMurray test indicative of, and how is it performed?",
+    "back": "It indicates a meniscal tear, performed by flexing the knee fully then extending it while applying internal or external tibial rotation and valgus or varus stress, with a palpable or audible click being a positive sign."
+  },
+  {
+    "id": 12,
+    "domain": "musculoskeletal_system",
+    "front": "What does a positive posterior drawer test suggest, and how does it differ from the anterior drawer test?",
+    "back": "It suggests posterior cruciate ligament insufficiency, tested by pushing the tibia posteriorly on a fixed femur with the knee flexed 90 degrees, whereas the anterior drawer pulls the tibia forward to test the ACL."
+  },
+  {
+    "id": 13,
+    "domain": "musculoskeletal_system",
+    "front": "What is the Neer impingement test and what does a positive result suggest?",
+    "back": "The examiner passively flexes the shoulder forward while stabilizing the scapula, and reproduction of pain suggests subacromial impingement of the supraspinatus tendon or subacromial bursa."
+  },
+  {
+    "id": 14,
+    "domain": "musculoskeletal_system",
+    "front": "How is the Hawkins-Kennedy test performed and what does it assess?",
+    "back": "The shoulder and elbow are flexed to 90 degrees and the examiner internally rotates the shoulder, and reproduced pain suggests subacromial impingement."
+  },
+  {
+    "id": 15,
+    "domain": "musculoskeletal_system",
+    "front": "What does a positive empty can test (Jobe test) indicate?",
+    "back": "Weakness or pain with resisted shoulder elevation in the scapular plane with the thumb pointing down suggests supraspinatus tendon pathology or tear."
+  },
+  {
+    "id": 16,
+    "domain": "musculoskeletal_system",
+    "front": "What is the Speed's test used to assess, and what is a positive finding?",
+    "back": "It assesses biceps tendon pathology; the examiner resists shoulder flexion with the elbow extended and forearm supinated, and pain in the bicipital groove is a positive result."
+  },
+  {
+    "id": 17,
+    "domain": "musculoskeletal_system",
+    "front": "What does the Yergason test assess and how is it performed?",
+    "back": "It assesses biceps tendon stability in the bicipital groove; the examiner resists forearm supination while the elbow is flexed to 90 degrees, and pain or a popping sensation indicates a positive test."
+  },
+  {
+    "id": 18,
+    "domain": "musculoskeletal_system",
+    "front": "What does a positive FABER (Patrick) test suggest?",
+    "back": "Pain in the groin suggests hip joint pathology, while pain in the posterior sacroiliac region suggests sacroiliac joint dysfunction, tested with the hip flexed, abducted, and externally rotated."
+  },
+  {
+    "id": 19,
+    "domain": "musculoskeletal_system",
+    "front": "What does the Ober test assess and what indicates a positive result?",
+    "back": "It assesses iliotibial band tightness; with the patient side-lying and the test leg abducted and extended at the hip, failure of the leg to adduct toward the table when released indicates tightness."
+  },
+  {
+    "id": 20,
+    "domain": "musculoskeletal_system",
+    "front": "What is the Thomas test used for and what does a positive result indicate?",
+    "back": "It assesses hip flexor tightness; with one hip pulled to the chest, if the opposite leg lifts off the table or the knee extends, this indicates a tight iliopsoas or rectus femoris."
+  },
+  {
+    "id": 21,
+    "domain": "musculoskeletal_system",
+    "front": "What does a positive Phalen test suggest and how is it performed?",
+    "back": "It suggests carpal tunnel syndrome, tested by holding both wrists in maximal flexion with the dorsal surfaces touching for 60 seconds, with reproduction of numbness or tingling in the median nerve distribution being positive."
+  },
+  {
+    "id": 22,
+    "domain": "musculoskeletal_system",
+    "front": "What is a positive Tinel sign at the wrist, and what does it indicate?",
+    "back": "Tapping over the median nerve at the carpal tunnel reproduces tingling or an electric shock sensation into the thumb, index, and middle fingers, indicating carpal tunnel syndrome."
+  },
+  {
+    "id": 23,
+    "domain": "musculoskeletal_system",
+    "front": "What does a positive Spurling test suggest and how is it performed?",
+    "back": "It suggests cervical nerve root compression; the examiner extends and laterally flexes the neck toward the affected side while applying gentle downward pressure, and reproduction of radicular symptoms is positive."
+  },
+  {
+    "id": 24,
+    "domain": "musculoskeletal_system",
+    "front": "What is the straight leg raise test used to assess and what angle range typically reproduces true sciatic symptoms?",
+    "back": "It assesses lumbar nerve root irritation or disc herniation, and reproduction of radicular leg pain between 30 and 70 degrees of hip flexion is considered a positive finding."
+  },
+  {
+    "id": 25,
+    "domain": "musculoskeletal_system",
+    "front": "What does the slump test add to a standard straight leg raise assessment?",
+    "back": "It combines cervical, thoracic, and lumbar flexion with knee extension and ankle dorsiflexion to increase neural tension throughout the entire spinal cord and dural sleeve, increasing sensitivity for neural tissue involvement."
+  },
+  {
+    "id": 26,
+    "domain": "musculoskeletal_system",
+    "front": "What are the four stages of fracture healing in order?",
+    "back": "Hematoma formation, soft (fibrocartilaginous) callus formation, hard (bony) callus formation, and bone remodeling."
+  },
+  {
+    "id": 27,
+    "domain": "musculoskeletal_system",
+    "front": "Approximately how long does the hematoma formation stage of fracture healing last?",
+    "back": "It occurs within the first few hours to about 1 week after the fracture, as a blood clot forms at the fracture site and inflammatory cells begin to arrive."
+  },
+  {
+    "id": 28,
+    "domain": "musculoskeletal_system",
+    "front": "During which stage of fracture healing does fibrocartilage bridge the fracture gap, and roughly when does it occur?",
+    "back": "During the soft callus stage, occurring roughly from 2 to 3 weeks post-fracture, providing initial but not yet weight-bearing-stable stability."
+  },
+  {
+    "id": 29,
+    "domain": "musculoskeletal_system",
+    "front": "When does hard callus formation typically occur and what happens during it?",
+    "back": "It typically occurs from about 3 to 4 months post-fracture, as osteoblasts convert the soft callus into woven bone, providing enough stability for progressive weight bearing."
+  },
+  {
+    "id": 30,
+    "domain": "musculoskeletal_system",
+    "front": "What is Wolff's law and how does it apply to fracture remodeling?",
+    "back": "Wolff's law states that bone remodels and reorients its trabecular structure in response to the mechanical stresses placed upon it, so controlled progressive loading during remodeling helps restore normal bone architecture and strength."
+  },
+  {
+    "id": 31,
+    "domain": "musculoskeletal_system",
+    "front": "What are standard total hip arthroplasty posterior approach precautions?",
+    "back": "Avoid hip flexion beyond 90 degrees, avoid hip adduction past midline, and avoid combined hip internal rotation, since these motions risk posterior dislocation."
+  },
+  {
+    "id": 32,
+    "domain": "musculoskeletal_system",
+    "front": "How do anterior approach total hip arthroplasty precautions differ from posterior approach precautions?",
+    "back": "Anterior approach precautions restrict hip extension, external rotation, and adduction, the opposite motions restricted in a posterior approach, because the risk of dislocation is directed anteriorly instead of posteriorly."
+  },
+  {
+    "id": 33,
+    "domain": "musculoskeletal_system",
+    "front": "What is the typical weight-bearing status and early ROM goal in the first 1 to 2 weeks after a standard total knee arthroplasty?",
+    "back": "Weight bearing as tolerated with an assistive device is typical, with early goals focused on achieving knee extension to 0 degrees and flexion progressing toward 90 degrees to prevent contracture."
+  },
+  {
+    "id": 34,
+    "domain": "musculoskeletal_system",
+    "front": "What is the general timeline and criteria for beginning running progression after ACL reconstruction?",
+    "back": "Running typically begins around 3 to 4 months post-surgery once quadriceps strength reaches roughly 70 to 80 percent of the uninvolved side and the patient demonstrates good single leg control without pain or effusion."
+  },
+  {
+    "id": 35,
+    "domain": "musculoskeletal_system",
+    "front": "Why are open kinetic chain quadriceps exercises typically restricted in early ACL reconstruction rehab, especially with a patellar tendon or hamstring graft?",
+    "back": "Open chain knee extension from about 0 to 45 degrees places high anterior shear stress on the healing graft, so this arc is often avoided or limited in the first 4 to 6 weeks depending on graft type and surgeon protocol."
+  },
+  {
+    "id": 36,
+    "domain": "musculoskeletal_system",
+    "front": "What return-to-sport criteria are commonly used after ACL reconstruction beyond simple time since surgery?",
+    "back": "Quadriceps strength within 90 percent limb symmetry index, single leg hop test symmetry above 90 percent, and full pain-free range of motion are commonly required in addition to a minimum time frame of 6 to 9 months."
+  },
+  {
+    "id": 37,
+    "domain": "musculoskeletal_system",
+    "front": "What movement restrictions are typical during the first 4 to 6 weeks after a rotator cuff repair?",
+    "back": "Active range of motion and active-assisted stretching beyond protected limits are restricted, with the arm kept in a sling and passive range of motion only performed within surgeon-specified limits to protect the healing repair."
+  },
+  {
+    "id": 38,
+    "domain": "musculoskeletal_system",
+    "front": "When does active range of motion typically begin after a rotator cuff repair, and why is this delayed?",
+    "back": "Active range of motion typically begins around 6 weeks post-surgery, delayed because tendon-to-bone healing requires this time before the repaired tendon can tolerate active muscular contraction without risking re-tear."
+  },
+  {
+    "id": 39,
+    "domain": "musculoskeletal_system",
+    "front": "What are standard log-roll precautions after lumbar spinal fusion?",
+    "back": "The patient rolls the trunk as one unit while keeping the spine in neutral alignment, avoiding independent twisting or bending of the trunk during bed mobility to protect the fusion site."
+  },
+  {
+    "id": 40,
+    "domain": "musculoskeletal_system",
+    "front": "What activities are typically restricted after spinal fusion under the acronym BLT?",
+    "back": "Bending, Lifting, and Twisting are restricted, since these movements place shear and rotational stress on the healing fusion segment."
+  },
+  {
+    "id": 41,
+    "domain": "musculoskeletal_system",
+    "front": "What is normal shoulder flexion range of motion measured goniometrically?",
+    "back": "Approximately 0 to 180 degrees."
+  },
+  {
+    "id": 42,
+    "domain": "musculoskeletal_system",
+    "front": "What is normal shoulder abduction range of motion?",
+    "back": "Approximately 0 to 180 degrees."
+  },
+  {
+    "id": 43,
+    "domain": "musculoskeletal_system",
+    "front": "What is normal shoulder external rotation and internal rotation range of motion?",
+    "back": "External rotation is approximately 0 to 90 degrees and internal rotation is approximately 0 to 70 degrees, measured with the shoulder abducted to 90 degrees."
+  },
+  {
+    "id": 44,
+    "domain": "musculoskeletal_system",
+    "front": "What is normal elbow flexion and extension range of motion?",
+    "back": "Elbow flexion is approximately 0 to 150 degrees, and extension is 0 degrees, with some individuals having up to 10 degrees of hyperextension considered normal."
+  },
+  {
+    "id": 45,
+    "domain": "musculoskeletal_system",
+    "front": "What is normal forearm pronation and supination range of motion?",
+    "back": "Both pronation and supination are approximately 0 to 80 to 90 degrees each."
+  },
+  {
+    "id": 46,
+    "domain": "musculoskeletal_system",
+    "front": "What is normal wrist flexion and extension range of motion?",
+    "back": "Wrist flexion is approximately 0 to 80 degrees and wrist extension is approximately 0 to 70 degrees."
+  },
+  {
+    "id": 47,
+    "domain": "musculoskeletal_system",
+    "front": "What is normal hip flexion range of motion measured with the knee flexed versus extended?",
+    "back": "Hip flexion with the knee flexed is approximately 0 to 120 degrees, while with the knee extended it is somewhat less, around 0 to 90 to 100 degrees, due to hamstring tension."
+  },
+  {
+    "id": 48,
+    "domain": "musculoskeletal_system",
+    "front": "What is normal hip abduction and adduction range of motion?",
+    "back": "Hip abduction is approximately 0 to 45 degrees and hip adduction is approximately 0 to 30 degrees."
+  },
+  {
+    "id": 49,
+    "domain": "musculoskeletal_system",
+    "front": "What is normal knee flexion range of motion?",
+    "back": "Approximately 0 to 135 to 150 degrees."
+  },
+  {
+    "id": 50,
+    "domain": "musculoskeletal_system",
+    "front": "What is normal ankle dorsiflexion and plantarflexion range of motion?",
+    "back": "Dorsiflexion is approximately 0 to 20 degrees and plantarflexion is approximately 0 to 50 degrees."
+  },
+  {
+    "id": 51,
+    "domain": "musculoskeletal_system",
+    "front": "What is normal cervical spine rotation range of motion?",
+    "back": "Approximately 0 to 80 degrees to each side."
+  },
+  {
+    "id": 52,
+    "domain": "musculoskeletal_system",
+    "front": "What is normal lumbar spine flexion range of motion?",
+    "back": "Approximately 0 to 60 degrees, though functional lumbar flexion is often measured using tape measure methods like the modified Schober test rather than a goniometer."
+  },
+  {
+    "id": 53,
+    "domain": "musculoskeletal_system",
+    "front": "What does a Manual Muscle Test grade of 5/5 (Normal) indicate?",
+    "back": "The patient completes full available range of motion against gravity and tolerates maximal resistance from the examiner."
+  },
+  {
+    "id": 54,
+    "domain": "musculoskeletal_system",
+    "front": "What does a Manual Muscle Test grade of 4/5 (Good) indicate?",
+    "back": "The patient completes full range of motion against gravity and tolerates moderate resistance but breaks with strong resistance from the examiner."
+  },
+  {
+    "id": 55,
+    "domain": "musculoskeletal_system",
+    "front": "What does a Manual Muscle Test grade of 3/5 (Fair) indicate?",
+    "back": "The patient completes full available range of motion against gravity but cannot tolerate any additional manual resistance."
+  },
+  {
+    "id": 56,
+    "domain": "musculoskeletal_system",
+    "front": "What does a Manual Muscle Test grade of 2/5 (Poor) indicate?",
+    "back": "The patient completes full range of motion only with gravity eliminated, meaning the limb moves in a gravity-minimized plane rather than against gravity."
+  },
+  {
+    "id": 57,
+    "domain": "musculoskeletal_system",
+    "front": "What does a Manual Muscle Test grade of 1/5 (Trace) indicate?",
+    "back": "A palpable or visible muscle contraction is present but produces no actual joint movement."
+  },
+  {
+    "id": 58,
+    "domain": "musculoskeletal_system",
+    "front": "What does a Manual Muscle Test grade of 0/5 indicate?",
+    "back": "No palpable or observable muscle contraction is present at all."
+  },
+  {
+    "id": 59,
+    "domain": "musculoskeletal_system",
+    "front": "What does adding a plus or minus to a Manual Muscle Test grade, such as 4+ or 3-, signify?",
+    "back": "A plus indicates the patient tolerated slightly more resistance or range than the base grade describes, while a minus indicates slightly less, allowing finer grading distinctions between the whole-number grades."
+  },
+  {
+    "id": 60,
+    "domain": "musculoskeletal_system",
+    "front": "How does osteoarthritis typically present differently from rheumatoid arthritis in terms of joint symptom pattern?",
+    "back": "Osteoarthritis typically presents asymmetrically in weight-bearing joints with pain that worsens with activity and improves with rest, while rheumatoid arthritis presents symmetrically, often in smaller joints, with prolonged morning stiffness lasting over an hour."
+  },
+  {
+    "id": 61,
+    "domain": "musculoskeletal_system",
+    "front": "What is the underlying pathology of osteoarthritis?",
+    "back": "Progressive degeneration and loss of articular cartilage with subsequent bony changes such as osteophyte formation and subchondral sclerosis, driven primarily by mechanical wear rather than systemic inflammation."
+  },
+  {
+    "id": 62,
+    "domain": "musculoskeletal_system",
+    "front": "What is the underlying pathology of rheumatoid arthritis?",
+    "back": "A chronic systemic autoimmune disease in which the immune system attacks the synovial lining of joints, causing synovitis, pannus formation, and eventual erosion of cartilage and bone."
+  },
+  {
+    "id": 63,
+    "domain": "musculoskeletal_system",
+    "front": "What deformities are classically associated with rheumatoid arthritis of the hand?",
+    "back": "Ulnar deviation of the fingers at the metacarpophalangeal joints, swan neck deformity, and boutonniere deformity."
+  },
+  {
+    "id": 64,
+    "domain": "musculoskeletal_system",
+    "front": "What are Heberden's nodes and Bouchard's nodes, and with which condition are they associated?",
+    "back": "Heberden's nodes are bony enlargements at the distal interphalangeal joints and Bouchard's nodes occur at the proximal interphalangeal joints, both classically associated with osteoarthritis rather than rheumatoid arthritis."
+  },
+  {
+    "id": 65,
+    "domain": "musculoskeletal_system",
+    "front": "What precautions should a therapist take when treating a patient with rheumatoid arthritis during an active disease flare?",
+    "back": "Avoid aggressive stretching or resistive exercise to inflamed joints, use gentle range of motion and isometric exercise instead, and monitor for cervical spine instability such as atlantoaxial subluxation before performing neck movements."
+  },
+  {
+    "id": 66,
+    "domain": "musculoskeletal_system",
+    "front": "What is the pathophysiology of tendinopathy, and why is the older term tendinitis considered less accurate for chronic cases?",
+    "back": "Chronic tendinopathy involves collagen disorganization and degeneration with minimal true inflammatory cells present, so the term tendinosis or tendinopathy is preferred over tendinitis, which implies an inflammatory process that is often absent in chronic presentations."
+  },
+  {
+    "id": 67,
+    "domain": "musculoskeletal_system",
+    "front": "What is the current evidence-based first-line exercise intervention for Achilles tendinopathy?",
+    "back": "Progressive eccentric loading exercises, such as the Alfredson heel-drop protocol, performed over the edge of a step with the knee both straight and bent."
+  },
+  {
+    "id": 68,
+    "domain": "musculoskeletal_system",
+    "front": "What is the common site and cause of lateral epicondylitis?",
+    "back": "Degeneration of the extensor carpi radialis brevis tendon at its origin on the lateral epicondyle, typically caused by repetitive wrist extension and gripping activities."
+  },
+  {
+    "id": 69,
+    "domain": "musculoskeletal_system",
+    "front": "What test is used to assess lateral epicondylitis and how is it performed?",
+    "back": "The Cozen's test, performed by resisting wrist extension with the elbow extended and forearm pronated, with reproduction of pain at the lateral epicondyle being a positive finding."
+  },
+  {
+    "id": 70,
+    "domain": "musculoskeletal_system",
+    "front": "What structure is involved in patellar tendinopathy, and what population is it commonly seen in?",
+    "back": "The patellar tendon at its origin on the inferior pole of the patella, commonly seen in athletes performing repetitive jumping activities such as basketball and volleyball, hence its nickname 'jumper's knee.'"
+  },
+  {
+    "id": 71,
+    "domain": "musculoskeletal_system",
+    "front": "What are the main subgroups in the treatment-based classification system for low back pain?",
+    "back": "Manipulation, stabilization, specific exercise (which includes extension, flexion, and lateral shift subgroups), and traction."
+  },
+  {
+    "id": 72,
+    "domain": "musculoskeletal_system",
+    "front": "What clinical prediction rule findings suggest a patient with low back pain is likely to respond well to spinal manipulation?",
+    "back": "Symptom duration less than 16 days, no symptoms distal to the knee, low fear-avoidance beliefs, at least one hip with more than 35 degrees of internal rotation, and hypomobility of the lumbar spine."
+  },
+  {
+    "id": 73,
+    "domain": "musculoskeletal_system",
+    "front": "In the McKenzie method, what does directional preference mean and what is the classic example for a posterior disc derangement?",
+    "back": "Directional preference is the specific repeated movement direction that centralizes or reduces a patient's symptoms; for a posterior disc derangement this is typically repeated lumbar extension, which centralizes leg pain back toward the spine."
+  },
+  {
+    "id": 74,
+    "domain": "musculoskeletal_system",
+    "front": "What is centralization of symptoms and why is it clinically significant in low back pain assessment?",
+    "back": "Centralization is the phenomenon of distal or peripheral symptoms retreating toward the midline of the spine with repeated movement testing, and it is a favorable prognostic sign associated with disc-related pathology that often responds well to conservative treatment."
+  },
+  {
+    "id": 75,
+    "domain": "musculoskeletal_system",
+    "front": "What are red flags that should prompt referral rather than continued conservative treatment for low back pain?",
+    "back": "Unexplained weight loss, history of cancer, progressive neurologic deficit, saddle anesthesia, bowel or bladder dysfunction, fever, and significant trauma, since these may indicate cauda equina syndrome, fracture, infection, or malignancy."
+  },
+  {
+    "id": 76,
+    "domain": "musculoskeletal_system",
+    "front": "What are the eight phases of the normal gait cycle?",
+    "back": "Initial contact, loading response, midstance, terminal stance, pre-swing, initial swing, midswing, and terminal swing."
+  },
+  {
+    "id": 77,
+    "domain": "musculoskeletal_system",
+    "front": "What percentage of the gait cycle is spent in stance phase versus swing phase during normal walking?",
+    "back": "Stance phase accounts for approximately 60 percent of the gait cycle and swing phase accounts for approximately 40 percent."
+  },
+  {
+    "id": 78,
+    "domain": "musculoskeletal_system",
+    "front": "What is a Trendelenburg gait and what muscle weakness causes it?",
+    "back": "A gait pattern in which the pelvis drops on the swing-leg side during single-limb stance, caused by weakness of the hip abductors, primarily the gluteus medius, on the stance leg side."
+  },
+  {
+    "id": 79,
+    "domain": "musculoskeletal_system",
+    "front": "What is a steppage gait and what causes it?",
+    "back": "A gait pattern with excessive hip and knee flexion during swing phase to clear the foot off the ground, caused by weakness or paralysis of the ankle dorsiflexors, commonly seen with foot drop from common peroneal nerve injury."
+  },
+  {
+    "id": 80,
+    "domain": "musculoskeletal_system",
+    "front": "What is an antalgic gait?",
+    "back": "A pain-avoidance gait pattern characterized by a shortened stance phase on the painful limb to minimize weight-bearing time and discomfort."
+  },
+  {
+    "id": 81,
+    "domain": "musculoskeletal_system",
+    "front": "What gait deviation is commonly seen with quadriceps weakness during stance phase?",
+    "back": "The patient may lean the trunk forward or push the knee into hyperextension (back-kneeing) to stabilize the knee and substitute for insufficient quadriceps control."
+  },
+  {
+    "id": 82,
+    "domain": "musculoskeletal_system",
+    "front": "What is a scissoring gait pattern and with what condition is it commonly associated?",
+    "back": "A gait pattern with excessive hip adduction causing the knees and thighs to cross the midline during swing, commonly seen in spastic cerebral palsy or other upper motor neuron conditions with hip adductor spasticity."
+  },
+  {
+    "id": 83,
+    "domain": "musculoskeletal_system",
+    "front": "What is genu recurvatum and how might it be observed during gait?",
+    "back": "Genu recurvatum is hyperextension of the knee beyond normal limits, which during gait may be seen as excessive knee hyperextension at midstance, often used to compensate for quadriceps weakness or plantarflexor tightness."
+  },
+  {
+    "id": 84,
+    "domain": "musculoskeletal_system",
+    "front": "What is the normal alignment of the sagittal plane spinal curves from superior to inferior?",
+    "back": "Cervical lordosis, thoracic kyphosis, lumbar lordosis, and sacral kyphosis."
+  },
+  {
+    "id": 85,
+    "domain": "musculoskeletal_system",
+    "front": "What is kyphoscoliosis?",
+    "back": "A postural or structural deformity combining excessive thoracic kyphosis in the sagittal plane with lateral curvature and rotation of the spine (scoliosis) in the frontal and transverse planes."
+  },
+  {
+    "id": 86,
+    "domain": "musculoskeletal_system",
+    "front": "What test is used to differentiate structural scoliosis from functional (postural) scoliosis?",
+    "back": "The Adam's forward bend test; a rib hump or rotational prominence that persists during forward bending suggests structural scoliosis, while a curve that disappears with forward bending suggests functional or postural scoliosis."
+  },
+  {
+    "id": 87,
+    "domain": "musculoskeletal_system",
+    "front": "What is upper crossed syndrome and what muscle imbalances characterize it?",
+    "back": "A postural pattern with tightness of the upper trapezius and pectoralis muscles combined with weakness of the deep neck flexors and lower/middle trapezius, resulting in a forward head, rounded shoulders posture."
+  },
+  {
+    "id": 88,
+    "domain": "musculoskeletal_system",
+    "front": "What is lower crossed syndrome and what muscle imbalances characterize it?",
+    "back": "A postural pattern with tightness of the hip flexors and lumbar erector spinae combined with weakness of the abdominal muscles and gluteal muscles, resulting in an anterior pelvic tilt and increased lumbar lordosis."
+  },
+  {
+    "id": 89,
+    "domain": "musculoskeletal_system",
+    "front": "What is a flatback posture and what spinal curve is affected?",
+    "back": "A posture characterized by a decreased or flattened lumbar lordosis, often accompanied by a posterior pelvic tilt, which can limit shock absorption and increase stress on lumbar discs during activity."
+  },
+  {
+    "id": 90,
+    "domain": "musculoskeletal_system",
+    "front": "What is the correct order of therapeutic exercise progression from least to most demanding for contraction type?",
+    "back": "Isometric exercise progresses to isotonic (concentric and eccentric) exercise, which then progresses to isokinetic or plyometric exercise as tolerance and control improve."
+  },
+  {
+    "id": 91,
+    "domain": "musculoskeletal_system",
+    "front": "What is the general principle behind progressing from closed kinetic chain to open kinetic chain exercise, or vice versa, in rehabilitation?",
+    "back": "Closed kinetic chain exercises, where the distal segment is fixed, generally provide greater joint compression and proprioceptive feedback with less shear force, so they are often introduced earlier for joint protection, while open kinetic chain exercises isolate specific muscles and are added later for targeted strengthening."
+  },
+  {
+    "id": 92,
+    "domain": "musculoskeletal_system",
+    "front": "What is the SAID principle and how does it guide exercise prescription?",
+    "back": "SAID stands for Specific Adaptation to Imposed Demands, meaning the body adapts specifically to the type, intensity, and pattern of stress placed upon it, so exercise should mimic the functional demands the patient will ultimately need to perform."
+  },
+  {
+    "id": 93,
+    "domain": "musculoskeletal_system",
+    "front": "What is plyometric exercise and what physiological principle underlies its effectiveness?",
+    "back": "Plyometric exercise uses a rapid eccentric muscle lengthening (loading phase) immediately followed by a rapid concentric contraction (unloading phase), exploiting the stretch-shortening cycle to produce a more powerful subsequent contraction."
+  },
+  {
+    "id": 94,
+    "domain": "musculoskeletal_system",
+    "front": "What is the general order of load progression recommended when advancing a strengthening program using the overload principle?",
+    "back": "Increase repetitions first, then increase resistance or intensity, and finally increase the complexity or velocity of the movement, adjusting only one variable at a time to safely monitor tolerance."
+  },
+  {
+    "id": 95,
+    "domain": "musculoskeletal_system",
+    "front": "What is delayed onset muscle soreness and when does it typically peak?",
+    "back": "Delayed onset muscle soreness is pain and stiffness resulting from microtrauma to muscle fibers, particularly after unaccustomed eccentric exercise, typically peaking 24 to 72 hours after the activity."
+  },
+  {
+    "id": 96,
+    "domain": "musculoskeletal_system",
+    "front": "What is the normal end feel of elbow extension and what does this end feel classification mean?",
+    "back": "A bony (hard) end feel, meaning two hard surfaces (the olecranon process and the olecranon fossa) come into contact, producing an abrupt stop with no give."
+  },
+  {
+    "id": 97,
+    "domain": "musculoskeletal_system",
+    "front": "What is a capsular end feel and give an example of a joint motion that normally has one?",
+    "back": "A firm end feel with some give, similar to stretching a piece of leather, normally present at the end of shoulder external rotation due to tension in the anterior joint capsule."
+  },
+  {
+    "id": 98,
+    "domain": "musculoskeletal_system",
+    "front": "What does an empty end feel indicate during passive range of motion testing?",
+    "back": "The examiner encounters no mechanical resistance to further motion, but the patient stops the motion due to pain, often indicating an acute inflammatory condition, bursitis, or a serious pathology such as a tumor or fracture."
+  },
+  {
+    "id": 99,
+    "domain": "musculoskeletal_system",
+    "front": "What is the normal capsular pattern of restriction for the glenohumeral joint?",
+    "back": "External rotation is most limited, followed by abduction, followed by internal rotation, reflecting a proportional pattern of capsular tightness."
+  },
+  {
+    "id": 100,
+    "domain": "musculoskeletal_system",
+    "front": "What is the capsular pattern of restriction for the hip joint?",
+    "back": "Flexion and internal rotation are most limited, followed by abduction, with relatively little restriction to extension and external rotation."
+  },
+  {
+    "id": 101,
+    "domain": "musculoskeletal_system",
+    "front": "What is the capsular pattern of restriction for the knee joint?",
+    "back": "Flexion is more limited than extension, a proportional pattern consistent with true capsular joint restriction such as osteoarthritis."
+  },
+  {
+    "id": 102,
+    "domain": "musculoskeletal_system",
+    "front": "What is adhesive capsulitis, and what are its three clinical stages?",
+    "back": "Adhesive capsulitis, or frozen shoulder, is a condition of progressive capsular fibrosis and thickening; its stages are the freezing (painful) stage, the frozen (stiffening) stage, and the thawing (recovery) stage."
+  },
+  {
+    "id": 103,
+    "domain": "musculoskeletal_system",
+    "front": "What is the difference between a Grade I and Grade II ligament sprain?",
+    "back": "A Grade I sprain involves mild stretching of ligament fibers with minimal microscopic tearing and no joint instability, while a Grade II sprain involves partial tearing of the ligament with some laxity but the joint remains grossly stable."
+  },
+  {
+    "id": 104,
+    "domain": "musculoskeletal_system",
+    "front": "What defines a Grade III ligament sprain?",
+    "back": "A complete tear or rupture of the ligament, resulting in gross joint instability on stress testing."
+  },
+  {
+    "id": 105,
+    "domain": "musculoskeletal_system",
+    "front": "How are muscle strains graded from Grade I to Grade III?",
+    "back": "Grade I is a mild strain with minimal fiber disruption and mild pain, Grade II is a partial tear with moderate pain and some loss of strength, and Grade III is a complete rupture of the muscle or its tendon with significant functional loss."
+  },
+  {
+    "id": 106,
+    "domain": "musculoskeletal_system",
+    "front": "What is the RICE protocol used for acute musculoskeletal injury management, and what is the modern update to this approach?",
+    "back": "RICE stands for Rest, Ice, Compression, and Elevation; the modern updated approach, POLICE, replaces complete rest with Protection and Optimal Loading to encourage earlier controlled movement for better tissue healing."
+  },
+  {
+    "id": 107,
+    "domain": "musculoskeletal_system",
+    "front": "What is a Colles' fracture and what deformity does it classically produce?",
+    "back": "A distal radius fracture typically caused by a fall on an outstretched hand, producing a classic dorsally displaced 'dinner fork' deformity of the wrist."
+  },
+  {
+    "id": 108,
+    "domain": "musculoskeletal_system",
+    "front": "What is the significance of a scaphoid fracture and why is it clinically important to recognize?",
+    "back": "The scaphoid has a precarious blood supply entering distally, so a fracture, especially of the proximal pole, carries a high risk of avascular necrosis and nonunion if missed or inadequately immobilized."
+  },
+  {
+    "id": 109,
+    "domain": "musculoskeletal_system",
+    "front": "What special test is used to screen for a scaphoid fracture and what physical finding suggests one?",
+    "back": "Tenderness in the anatomical snuffbox on palpation, along with pain with axial loading of the thumb, are classic clinical signs suggestive of a scaphoid fracture."
+  },
+  {
+    "id": 110,
+    "domain": "musculoskeletal_system",
+    "front": "What is a hip fracture classification distinction between intracapsular and extracapsular fractures, and why does it matter?",
+    "back": "Intracapsular fractures occur within the joint capsule (femoral neck) and carry a higher risk of avascular necrosis due to disrupted blood supply, while extracapsular fractures (intertrochanteric or subtrochanteric) occur outside the capsule and generally have better blood supply and healing potential."
+  },
+  {
+    "id": 111,
+    "domain": "musculoskeletal_system",
+    "front": "What weight-bearing status is typical after an open reduction internal fixation for a hip fracture, and why might this differ from an arthroplasty?",
+    "back": "Weight bearing as tolerated is commonly allowed after arthroplasty since the implant provides immediate structural stability, whereas internal fixation of certain fracture patterns may require touchdown or partial weight bearing initially to protect the healing bone until adequate callus forms."
+  },
+  {
+    "id": 112,
+    "domain": "musculoskeletal_system",
+    "front": "What is the difference between a stress fracture and a traumatic fracture?",
+    "back": "A stress fracture results from repetitive submaximal loading over time that exceeds the bone's ability to remodel and repair, while a traumatic fracture results from a single acute overwhelming force."
+  },
+  {
+    "id": 113,
+    "domain": "musculoskeletal_system",
+    "front": "What are common risk factors for a female athlete to develop a stress fracture, referencing the Female Athlete Triad?",
+    "back": "Low energy availability or disordered eating, menstrual dysfunction (amenorrhea), and decreased bone mineral density together increase stress fracture risk in this population."
+  },
+  {
+    "id": 114,
+    "domain": "musculoskeletal_system",
+    "front": "What is spondylolysis and how does it differ from spondylolisthesis?",
+    "back": "Spondylolysis is a stress fracture or defect of the pars interarticularis of a vertebra, while spondylolisthesis is the forward slippage of one vertebral body relative to the one below it, which can develop as a consequence of bilateral spondylolysis."
+  },
+  {
+    "id": 115,
+    "domain": "musculoskeletal_system",
+    "front": "What test can help identify spondylolysis or spondylolisthesis clinically?",
+    "back": "The stork test (single leg lumbar extension test), in which the patient stands on one leg and extends the lumbar spine; reproduction of unilateral low back pain suggests a pars defect."
+  },
+  {
+    "id": 116,
+    "domain": "musculoskeletal_system",
+    "front": "What is piriformis syndrome and what nerve is commonly implicated?",
+    "back": "A condition where the piriformis muscle compresses or irritates the sciatic nerve as it passes near or through the muscle, producing buttock pain that may radiate down the posterior thigh."
+  },
+  {
+    "id": 117,
+    "domain": "musculoskeletal_system",
+    "front": "What test is commonly used to assess for piriformis syndrome?",
+    "back": "The FAIR test (Flexion, Adduction, and Internal Rotation of the hip), which stretches and compresses the piriformis against the sciatic nerve, reproducing symptoms if the piriformis is the source."
+  },
+  {
+    "id": 118,
+    "domain": "musculoskeletal_system",
+    "front": "What is patellofemoral pain syndrome and what factors commonly contribute to it?",
+    "back": "Anterior knee pain related to abnormal patellar tracking within the femoral trochlear groove, commonly contributed to by quadriceps weakness (especially the vastus medialis obliquus), hip abductor and external rotator weakness, and iliotibial band tightness."
+  },
+  {
+    "id": 119,
+    "domain": "musculoskeletal_system",
+    "front": "What is the clarke sign (patellar grind test) used to assess?",
+    "back": "It assesses patellofemoral joint pain by applying gentle downward pressure on the superior patella while the patient contracts the quadriceps; reproduction of pain or grinding suggests patellofemoral joint dysfunction, though its diagnostic value is debated."
+  },
+  {
+    "id": 120,
+    "domain": "musculoskeletal_system",
+    "front": "What is the difference between grade 1, 2, and 3 acromioclavicular joint sprains?",
+    "back": "Grade 1 involves a sprain of the acromioclavicular ligaments with no instability, Grade 2 involves a rupture of the acromioclavicular ligaments with partial instability and some elevation of the clavicle, and Grade 3 involves complete rupture of both the acromioclavicular and coracoclavicular ligaments with gross instability and a visible step deformity."
+  },
+  {
+    "id": 121,
+    "domain": "musculoskeletal_system",
+    "front": "What is impingement syndrome of the shoulder and what structures are typically compressed?",
+    "back": "Compression of the supraspinatus tendon, subacromial bursa, and long head of the biceps tendon between the humeral head and the coracoacromial arch, often occurring during overhead arm elevation."
+  },
+  {
+    "id": 122,
+    "domain": "musculoskeletal_system",
+    "front": "What is the drop arm test and what does a positive result indicate?",
+    "back": "The patient's arm is passively abducted to 90 degrees and asked to slowly lower it; inability to control the descent or a sudden drop suggests a full-thickness rotator cuff tear, most often of the supraspinatus."
+  },
+  {
+    "id": 123,
+    "domain": "musculoskeletal_system",
+    "front": "What is scapular dyskinesis and how might it be observed clinically?",
+    "back": "Abnormal scapular positioning or movement pattern during arm elevation, often observed as winging, premature scapular elevation, or asymmetric scapular rhythm compared to the contralateral side."
+  },
+  {
+    "id": 124,
+    "domain": "musculoskeletal_system",
+    "front": "What causes a classic winged scapula deformity, and what test helps identify it?",
+    "back": "Weakness or paralysis of the serratus anterior, usually from long thoracic nerve injury, causes medial winging; it is commonly identified by having the patient perform a wall push-up, which accentuates the winging."
+  },
+  {
+    "id": 125,
+    "domain": "musculoskeletal_system",
+    "front": "What is degenerative disc disease and how does it typically affect disc height and hydration over time?",
+    "back": "A progressive age-related process in which intervertebral discs lose water content and proteoglycan concentration, leading to decreased disc height, reduced shock-absorbing capacity, and increased stress on adjacent facet joints."
+  },
+  {
+    "id": 126,
+    "domain": "musculoskeletal_system",
+    "front": "What is spinal stenosis and what body position typically relieves symptoms?",
+    "back": "Spinal stenosis is a narrowing of the spinal canal or neural foramina that compresses the spinal cord or nerve roots; flexed postures, such as leaning forward or sitting, typically relieve symptoms by increasing the available space in the canal, while extension typically worsens symptoms."
+  },
+  {
+    "id": 127,
+    "domain": "musculoskeletal_system",
+    "front": "What is neurogenic claudication and how does it differ from vascular claudication?",
+    "back": "Neurogenic claudication is leg pain or fatigue from lumbar spinal stenosis that improves with spinal flexion or sitting even without stopping walking, whereas vascular claudication is leg pain from arterial insufficiency that improves simply with rest regardless of spinal position."
+  },
+  {
+    "id": 128,
+    "domain": "musculoskeletal_system",
+    "front": "What is the significance of a positive bicycle test (van Gelderen test) in differentiating lumbar spinal stenosis from vascular claudication?",
+    "back": "A patient with neurogenic claudication from spinal stenosis can typically pedal longer while leaning forward in a flexed spine position than while sitting upright, since flexion decreases neural compression, a distinction not seen with pure vascular claudication."
+  },
+  {
+    "id": 129,
+    "domain": "musculoskeletal_system",
+    "front": "What is cauda equina syndrome and why is it considered a medical emergency?",
+    "back": "Compression of the lumbosacral nerve roots below the level of the spinal cord, presenting with saddle anesthesia, bowel or bladder dysfunction, and bilateral leg weakness; it requires emergency surgical decompression to prevent permanent neurological damage."
+  },
+  {
+    "id": 130,
+    "domain": "musculoskeletal_system",
+    "front": "What is the general purpose of the Oswestry Disability Index in low back pain assessment?",
+    "back": "It is a patient-reported outcome measure that quantifies the degree of functional disability related to low back pain across activities such as personal care, lifting, walking, sitting, and standing, used to track change over time."
+  },
+  {
+    "id": 131,
+    "domain": "musculoskeletal_system",
+    "front": "What is the difference between primary and secondary bone healing?",
+    "back": "Primary bone healing occurs through direct osteonal remodeling without callus formation, typically requiring rigid fixation with anatomic reduction, while secondary bone healing occurs through the callus formation process and is more common with casting or less rigid fixation methods."
+  },
+  {
+    "id": 132,
+    "domain": "musculoskeletal_system",
+    "front": "What is heterotopic ossification and in which patient population is it commonly seen after musculoskeletal trauma or surgery?",
+    "back": "Abnormal bone formation within soft tissue outside the skeleton, commonly seen after total hip arthroplasty, traumatic brain injury, or spinal cord injury, presenting as decreased range of motion, swelling, and warmth around the affected joint."
+  },
+  {
+    "id": 133,
+    "domain": "musculoskeletal_system",
+    "front": "What is complex regional pain syndrome and what are its hallmark clinical features?",
+    "back": "A chronic pain condition typically following trauma or surgery, characterized by disproportionate pain, along with vasomotor changes such as skin color and temperature changes, sudomotor changes such as sweating abnormalities, edema, and eventual trophic changes to skin, hair, and nails."
+  },
+  {
+    "id": 134,
+    "domain": "musculoskeletal_system",
+    "front": "What is the difference between active insufficiency and passive insufficiency of a two-joint muscle?",
+    "back": "Active insufficiency occurs when a muscle is shortened over both joints it crosses and cannot generate additional effective tension, while passive insufficiency occurs when a muscle is lengthened over both joints simultaneously and cannot stretch further without limiting the available range of motion."
+  },
+  {
+    "id": 135,
+    "domain": "musculoskeletal_system",
+    "front": "Give a classic example of active insufficiency involving the finger flexors.",
+    "back": "Making a fist with the wrist flexed produces a weaker grip than making a fist with the wrist in a neutral or slightly extended position, because the finger flexors are actively insufficient when shortened across both the wrist and finger joints simultaneously."
+  },
+  {
+    "id": 136,
+    "domain": "musculoskeletal_system",
+    "front": "What is the length-tension relationship of skeletal muscle and how does it relate to optimal force production?",
+    "back": "Muscle force production is greatest at an intermediate resting length that allows optimal actin-myosin cross-bridge overlap, with force declining when the muscle is either significantly shortened or significantly lengthened beyond this optimal range."
+  },
+  {
+    "id": 137,
+    "domain": "musculoskeletal_system",
+    "front": "What is the difference between a concentric and an eccentric muscle contraction?",
+    "back": "A concentric contraction involves the muscle shortening while generating force to overcome resistance, while an eccentric contraction involves the muscle lengthening under tension while controlling or resisting an external load."
+  },
+  {
+    "id": 138,
+    "domain": "musculoskeletal_system",
+    "front": "Why can muscles generally produce more force during eccentric contractions than concentric contractions at the same velocity?",
+    "back": "During eccentric contraction, external force stretches actively cycling cross-bridges, and the passive elastic components of the muscle contribute additional resistive force, allowing greater overall force production than concentric shortening can generate."
+  },
+  {
+    "id": 139,
+    "domain": "musculoskeletal_system",
+    "front": "What is the significance of the modified Schober test in a musculoskeletal spine examination?",
+    "back": "It is a tape measure technique used to objectively quantify lumbar flexion range of motion by marking two points along the spine and measuring the increase in distance between them during forward bending, commonly used to assess conditions like ankylosing spondylitis."
+  },
+  {
+    "id": 140,
+    "domain": "musculoskeletal_system",
+    "front": "What is the general goal of a closed kinetic chain versus open kinetic chain exercise for rotator cuff rehabilitation, and why might closed chain be introduced earlier post-surgically?",
+    "back": "Closed kinetic chain exercises, such as weight-bearing on a stable surface, promote co-contraction of the rotator cuff and scapular stabilizers with lower shear stress on the healing repair, so they are often introduced earlier, while open chain exercises isolate individual rotator cuff muscles with greater joint shear and are added later in rehabilitation."
+  },
+  {
+    "id": 141,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is Brunnstrom Stage 1 of stroke recovery?",
+    "back": "Flaccidity with no volitional movement present in the affected limb."
+  },
+  {
+    "id": 142,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What characterizes Brunnstrom Stage 2?",
+    "back": "Spasticity begins to appear and minimal voluntary movement emerges only within synergy patterns."
+  },
+  {
+    "id": 143,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What characterizes Brunnstrom Stage 3?",
+    "back": "Spasticity peaks and the patient can voluntarily move through the full synergy pattern, though not outside of it."
+  },
+  {
+    "id": 144,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What characterizes Brunnstrom Stage 4?",
+    "back": "Spasticity begins to decrease and some movement combinations that deviate from the basic synergies appear."
+  },
+  {
+    "id": 145,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What characterizes Brunnstrom Stage 5?",
+    "back": "Spasticity continues to decline and more difficult movement combinations independent of synergy are possible."
+  },
+  {
+    "id": 146,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What characterizes Brunnstrom Stage 6?",
+    "back": "Spasticity is essentially absent and isolated joint movements can be performed with near normal coordination."
+  },
+  {
+    "id": 147,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the upper extremity flexor synergy pattern after stroke?",
+    "back": "Scapular retraction and elevation, shoulder abduction and external rotation, elbow flexion, forearm supination, and wrist and finger flexion."
+  },
+  {
+    "id": 148,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the upper extremity extensor synergy pattern after stroke?",
+    "back": "Scapular protraction, shoulder adduction and internal rotation, elbow extension, forearm pronation, and wrist and finger flexion."
+  },
+  {
+    "id": 149,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the lower extremity flexor synergy pattern after stroke?",
+    "back": "Hip flexion, abduction, and external rotation, knee flexion, and ankle dorsiflexion with inversion."
+  },
+  {
+    "id": 150,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the lower extremity extensor synergy pattern after stroke?",
+    "back": "Hip extension, adduction, and internal rotation, knee extension, and ankle plantarflexion with inversion."
+  },
+  {
+    "id": 151,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What describes a hemiplegic circumduction gait pattern?",
+    "back": "The affected leg swings outward in an arc rather than flexing normally, typically due to inadequate knee and hip flexion or foot drop compensation."
+  },
+  {
+    "id": 152,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What causes footdrop and steppage gait in hemiplegia?",
+    "back": "Weak or absent ankle dorsiflexors cause the foot to drop, so the patient compensates with excessive hip and knee flexion to clear the foot during swing."
+  },
+  {
+    "id": 153,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is genu recurvatum during hemiplegic stance phase caused by?",
+    "back": "Quadriceps weakness combined with plantarflexor spasticity or soleus weakness, causing the knee to hyperextend for stability during stance."
+  },
+  {
+    "id": 154,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is pusher syndrome after stroke?",
+    "back": "A condition, most often from right hemisphere damage, in which the patient actively pushes toward the hemiplegic side and resists correction toward midline."
+  },
+  {
+    "id": 155,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Which stroke syndrome typically produces contralateral leg weakness greater than arm weakness?",
+    "back": "Anterior cerebral artery stroke, because the ACA supplies the medial frontal and parietal cortex controlling the leg."
+  },
+  {
+    "id": 156,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Which stroke syndrome produces contralateral face and arm weakness greater than leg weakness?",
+    "back": "Middle cerebral artery stroke, since the MCA supplies the lateral cortex representing the face and upper extremity most heavily."
+  },
+  {
+    "id": 157,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What deficits are classic for posterior cerebral artery stroke?",
+    "back": "Contralateral homonymous hemianopsia and visual agnosia, since the PCA supplies the occipital lobe and visual cortex."
+  },
+  {
+    "id": 158,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is Wallenberg syndrome and its typical cause?",
+    "back": "Lateral medullary syndrome from posterior inferior cerebellar artery occlusion, presenting with ipsilateral facial sensory loss, dysphagia, ataxia, Horner syndrome, and contralateral body sensory loss."
+  },
+  {
+    "id": 159,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the difference between Broca's and Wernicke's aphasia?",
+    "back": "Broca's aphasia is nonfluent with intact comprehension, while Wernicke's aphasia is fluent but nonsensical with impaired comprehension."
+  },
+  {
+    "id": 160,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is unilateral neglect and which hemisphere lesion most commonly causes it?",
+    "back": "Unilateral neglect is failure to attend to or respond to stimuli on one side of space, most commonly the left side following a right parietal lobe lesion."
+  },
+  {
+    "id": 161,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Rancho Los Amigos Level I is described how?",
+    "back": "No response, the patient appears in a deep sleep and does not respond to any stimuli."
+  },
+  {
+    "id": 162,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Rancho Los Amigos Level II is described how?",
+    "back": "Generalized response, the patient reacts inconsistently and non-purposefully to stimuli regardless of the type presented."
+  },
+  {
+    "id": 163,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Rancho Los Amigos Level III is described how?",
+    "back": "Localized response, the patient reacts specifically but inconsistently to stimuli, such as turning toward a sound."
+  },
+  {
+    "id": 164,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Rancho Los Amigos Level IV is described how?",
+    "back": "Confused and agitated, the patient is in a heightened state of activity with severely impaired cognition and no goal-directed behavior."
+  },
+  {
+    "id": 165,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Rancho Los Amigos Level V is described how?",
+    "back": "Confused and inappropriate, non-agitated, the patient can follow simple commands but is highly distractible and lacks goal-directed behavior."
+  },
+  {
+    "id": 166,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Rancho Los Amigos Level VI is described how?",
+    "back": "Confused and appropriate, the patient shows goal-directed behavior but needs cueing and has impaired recent memory."
+  },
+  {
+    "id": 167,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Rancho Los Amigos Level VII is described how?",
+    "back": "Automatic and appropriate, the patient performs daily routines automatically but with minimal to no confusion and shallow judgment."
+  },
+  {
+    "id": 168,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Rancho Los Amigos Level VIII is described how?",
+    "back": "Purposeful and appropriate, the patient is alert and oriented with the ability to recall and integrate past and recent events, though some abstract reasoning deficits may remain."
+  },
+  {
+    "id": 169,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "At which Rancho Los Amigos level should a therapist emphasize a highly structured, low-stimulation environment?",
+    "back": "Level IV, since the patient is confused and agitated and is easily overwhelmed by excess sensory input at this stage."
+  },
+  {
+    "id": 170,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the Glasgow Coma Scale used for and what are its three components?",
+    "back": "It is used to grade level of consciousness after brain injury, scoring eye opening, verbal response, and motor response, with scores ranging from 3 to 15."
+  },
+  {
+    "id": 171,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "A Glasgow Coma Scale score of 8 or less indicates what severity of injury?",
+    "back": "Severe traumatic brain injury, generally consistent with coma."
+  },
+  {
+    "id": 172,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is post-traumatic amnesia and why is it clinically important?",
+    "back": "It is the period after brain injury during which the patient cannot form new continuous memories, and its duration correlates with injury severity and prognosis."
+  },
+  {
+    "id": 173,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What does ASIA Impairment Scale grade A represent?",
+    "back": "Complete injury with no motor or sensory function preserved in the sacral segments S4 to S5."
+  },
+  {
+    "id": 174,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What does ASIA Impairment Scale grade B represent?",
+    "back": "Sensory incomplete injury, sensory but not motor function is preserved below the neurological level including S4 to S5."
+  },
+  {
+    "id": 175,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What does ASIA Impairment Scale grade C represent?",
+    "back": "Motor incomplete injury where more than half of key muscles below the neurological level have a muscle grade less than 3."
+  },
+  {
+    "id": 176,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What does ASIA Impairment Scale grade D represent?",
+    "back": "Motor incomplete injury where at least half of key muscles below the neurological level have a muscle grade of 3 or greater."
+  },
+  {
+    "id": 177,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What does ASIA Impairment Scale grade E represent?",
+    "back": "Normal sensory and motor function throughout, used when a patient with a prior deficit has recovered fully."
+  },
+  {
+    "id": 178,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the key defining feature that separates a complete from an incomplete spinal cord injury?",
+    "back": "Preservation of sensory or motor function at the sacral segments S4 to S5, including deep anal sensation and voluntary anal contraction."
+  },
+  {
+    "id": 179,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What functional level of tetraplegia corresponds to preserved C5 function?",
+    "back": "Elbow flexion and shoulder function are present, but the patient lacks wrist extension. This allows independent feeding and grooming with adaptive equipment and a power wheelchair, though the patient requires assistance for bathing, dressing, transfers, and bowel and bladder care."
+  },
+  {
+    "id": 180,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What functional level of tetraplegia corresponds to preserved C6 function?",
+    "back": "Wrist extensors are present allowing tenodesis grasp, enabling independent transfers with a sliding board and some independence in self-care."
+  },
+  {
+    "id": 181,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What functional level of tetraplegia corresponds to preserved C7 function?",
+    "back": "Triceps function is present enabling independent transfers, a manual wheelchair for community mobility, and most self-care independence."
+  },
+  {
+    "id": 182,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the expected functional outcome for a complete injury at the thoracic level?",
+    "back": "High thoracic injuries (T1-T6) rely on a wheelchair for community mobility with full upper extremity function and independence in most self-care and transfers. Low thoracic injuries (T10-T12) can achieve household ambulation with bilateral knee-ankle-foot orthoses."
+  },
+  {
+    "id": 183,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "At what level of paraplegia is community ambulation with orthoses generally realistic?",
+    "back": "Injuries at L3 and below, where quadriceps function is preserved, making functional ambulation with ankle-foot orthoses more feasible."
+  },
+  {
+    "id": 184,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is autonomic dysreflexia and at what injury level does it typically occur?",
+    "back": "A sudden, dangerous rise in blood pressure with bradycardia, pounding headache, and flushing above the lesion, triggered by a noxious stimulus below the level of injury, typically occurring at T6 and above."
+  },
+  {
+    "id": 185,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the first action a therapist should take when autonomic dysreflexia is suspected?",
+    "back": "Sit the patient upright immediately to lower blood pressure and then search for and remove the noxious stimulus, such as a full bladder or bowel or tight clothing."
+  },
+  {
+    "id": 186,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is spinal shock and how long does it typically last?",
+    "back": "A temporary loss of all reflex activity below the level of spinal cord injury, typically resolving within days to a few weeks and marked by the return of the bulbocavernosus reflex."
+  },
+  {
+    "id": 187,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is Brown-Sequard syndrome?",
+    "back": "A hemisection of the spinal cord causing ipsilateral loss of motor function and proprioception below the lesion, with contralateral loss of pain and temperature sensation beginning a few levels below."
+  },
+  {
+    "id": 188,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is central cord syndrome and its classic presentation?",
+    "back": "Damage centered on the central spinal cord, most common after hyperextension injury in older adults, causing upper extremity weakness that is more pronounced than lower extremity weakness."
+  },
+  {
+    "id": 189,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is anterior cord syndrome?",
+    "back": "Damage to the anterior two-thirds of the spinal cord causing loss of motor function, pain, and temperature sensation bilaterally below the lesion, while proprioception and vibration remain intact."
+  },
+  {
+    "id": 190,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the earliest sign of multiple sclerosis relapse most patients report?",
+    "back": "Optic neuritis, presenting as unilateral vision loss or pain with eye movement, is one of the most common initial presentations."
+  },
+  {
+    "id": 191,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is Uhthoff's phenomenon in multiple sclerosis?",
+    "back": "Temporary worsening of neurological symptoms with increased body temperature, such as during exercise or a hot shower, that resolves with cooling."
+  },
+  {
+    "id": 192,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What are the four clinical disease courses of multiple sclerosis?",
+    "back": "Relapsing-remitting, secondary progressive, primary progressive, and progressive relapsing."
+  },
+  {
+    "id": 193,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What exercise precaution is most important for patients with multiple sclerosis?",
+    "back": "Avoid overheating during exercise, since increased core temperature can transiently worsen symptoms through impaired nerve conduction in demyelinated axons."
+  },
+  {
+    "id": 194,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What are the four cardinal motor signs of Parkinson's disease?",
+    "back": "Resting tremor, rigidity, bradykinesia, and postural instability."
+  },
+  {
+    "id": 195,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What type of rigidity is classically seen in Parkinson's disease?",
+    "back": "Cogwheel rigidity, a ratchet-like resistance felt throughout passive range of motion, often combined with lead-pipe rigidity."
+  },
+  {
+    "id": 196,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What gait pattern is characteristic of Parkinson's disease?",
+    "back": "A festinating gait with short shuffling steps, reduced arm swing, stooped posture, and difficulty initiating movement or turning."
+  },
+  {
+    "id": 197,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What treatment strategy helps patients with Parkinson's disease overcome freezing of gait?",
+    "back": "External cueing strategies such as visual floor markers, rhythmic auditory cues, or verbal counting to step over rather than relying on internally generated movement."
+  },
+  {
+    "id": 198,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the Hoehn and Yahr scale used for?",
+    "back": "It stages the severity and progression of Parkinson's disease from unilateral involvement only at stage 1 to wheelchair-bound or bedridden at stage 5."
+  },
+  {
+    "id": 199,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is Guillain-Barre syndrome and its typical progression pattern?",
+    "back": "An acute autoimmune polyneuropathy causing ascending, symmetric weakness and sensory changes, usually beginning in the distal lower extremities and progressing upward over days to weeks."
+  },
+  {
+    "id": 200,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the primary exercise precaution during the acute phase of Guillain-Barre syndrome?",
+    "back": "Avoid overexertion and high-resistance exercise, since overwork weakness can cause further damage to recovering, denervated muscle fibers."
+  },
+  {
+    "id": 201,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What distinguishes a peripheral neuropathy sensory pattern from a specific nerve lesion?",
+    "back": "Peripheral neuropathy typically produces a symmetric stocking-glove distribution of sensory loss, while a single nerve lesion follows the distribution of that specific peripheral nerve."
+  },
+  {
+    "id": 202,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the most common presentation of carpal tunnel syndrome?",
+    "back": "Compression of the median nerve at the wrist causing numbness and tingling in the thumb, index, middle, and half of the ring finger, often worse at night."
+  },
+  {
+    "id": 203,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What muscle weakness pattern indicates a radial nerve palsy?",
+    "back": "Wrist drop from loss of wrist and finger extensors, with sensory loss over the dorsal web space between the thumb and index finger."
+  },
+  {
+    "id": 204,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the sensory distribution of the C6 dermatome?",
+    "back": "The lateral forearm, thumb, and index finger."
+  },
+  {
+    "id": 205,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the sensory distribution of the C7 dermatome?",
+    "back": "The middle finger and central posterior forearm."
+  },
+  {
+    "id": 206,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the sensory distribution of the C8 dermatome?",
+    "back": "The ring and little fingers and the medial (ulnar) hand."
+  },
+  {
+    "id": 207,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the sensory distribution of the L4 dermatome?",
+    "back": "The medial leg and shin down to the medial malleolus."
+  },
+  {
+    "id": 208,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the sensory distribution of the L5 dermatome?",
+    "back": "The lateral leg and dorsum of the foot, including the great toe."
+  },
+  {
+    "id": 209,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the sensory distribution of the S1 dermatome?",
+    "back": "The lateral foot and sole, including the small toe."
+  },
+  {
+    "id": 210,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Which myotome is tested by resisted knee extension?",
+    "back": "L3, though L2 through L4 all contribute to knee extension strength."
+  },
+  {
+    "id": 211,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Which myotome is tested by resisted ankle dorsiflexion?",
+    "back": "L4."
+  },
+  {
+    "id": 212,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Which myotome is tested by resisted great toe extension?",
+    "back": "L5."
+  },
+  {
+    "id": 213,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Which myotome is tested by resisted ankle plantarflexion or eversion?",
+    "back": "S1."
+  },
+  {
+    "id": 214,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Which spinal nerve root primarily mediates the biceps deep tendon reflex?",
+    "back": "C5, with contribution from C6."
+  },
+  {
+    "id": 215,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Which spinal nerve root primarily mediates the brachioradialis deep tendon reflex?",
+    "back": "C6."
+  },
+  {
+    "id": 216,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Which spinal nerve root primarily mediates the triceps deep tendon reflex?",
+    "back": "C7."
+  },
+  {
+    "id": 217,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Which spinal nerve root primarily mediates the patellar deep tendon reflex?",
+    "back": "L4, with contribution from L2 through L3."
+  },
+  {
+    "id": 218,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Which spinal nerve root primarily mediates the Achilles deep tendon reflex?",
+    "back": "S1, with contribution from S2."
+  },
+  {
+    "id": 219,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What grading is assigned to a deep tendon reflex that is absent even with reinforcement?",
+    "back": "Grade 0, indicating an areflexic response, which typically points to a lower motor neuron lesion."
+  },
+  {
+    "id": 220,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What deep tendon reflex grade is considered normal?",
+    "back": "Grade 2+, a normal average response."
+  },
+  {
+    "id": 221,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What does a hyperactive deep tendon reflex with clonus generally indicate?",
+    "back": "An upper motor neuron lesion, since damage to descending inhibitory pathways releases spinal reflex arcs from central control."
+  },
+  {
+    "id": 222,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the Dix-Hallpike test used to diagnose?",
+    "back": "Benign paroxysmal positional vertigo, specifically identifying which posterior or anterior semicircular canal is affected by observing the direction and latency of nystagmus."
+  },
+  {
+    "id": 223,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "How is the Dix-Hallpike test performed?",
+    "back": "The patient is moved quickly from sitting to supine with the head turned 45 degrees to one side and extended 20 degrees over the table edge, and the eyes are observed for nystagmus for at least 30 seconds."
+  },
+  {
+    "id": 224,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What treatment maneuver is used for posterior canal benign paroxysmal positional vertigo?",
+    "back": "The Epley maneuver, a canalith repositioning technique that moves displaced otoconia out of the posterior semicircular canal and back into the vestibule."
+  },
+  {
+    "id": 225,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the typical nystagmus pattern seen with posterior canal BPPV on the Dix-Hallpike test?",
+    "back": "Upbeating and torsional nystagmus toward the affected ear, with onset delayed a few seconds and fatiguing with repeated testing."
+  },
+  {
+    "id": 226,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the head thrust test used to assess?",
+    "back": "The vestibulo-ocular reflex, identifying a peripheral vestibular hypofunction when a corrective saccade is seen after a rapid head turn toward the affected side."
+  },
+  {
+    "id": 227,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the general goal of vestibular rehabilitation for unilateral hypofunction?",
+    "back": "Promote central compensation through gaze stabilization exercises, habituation exercises, and balance retraining, since the peripheral deficit itself often cannot be reversed."
+  },
+  {
+    "id": 228,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is dysdiadochokinesia and what does it indicate?",
+    "back": "Impaired ability to perform rapid alternating movements, indicating cerebellar dysfunction, tested with rapid forearm pronation and supination."
+  },
+  {
+    "id": 229,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is dysmetria and how is it tested?",
+    "back": "Impaired ability to judge distance or scale of movement, tested with the finger-to-nose test or heel-to-shin test, indicating cerebellar dysfunction."
+  },
+  {
+    "id": 230,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What gait pattern is characteristic of cerebellar ataxia?",
+    "back": "A wide-based, staggering gait with irregular step length and lateral veering, often worsened with eyes closed but not as dramatically as with sensory ataxia."
+  },
+  {
+    "id": 231,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the Romberg test used to assess and what does a positive result suggest?",
+    "back": "It assesses reliance on proprioceptive versus visual input for balance, and a positive result, a significant increase in sway or falling with eyes closed, suggests a proprioceptive or vestibular deficit rather than cerebellar dysfunction."
+  },
+  {
+    "id": 232,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is intention tremor and which condition is it associated with?",
+    "back": "A tremor that worsens as a limb approaches its target during a voluntary movement, associated with cerebellar dysfunction, as opposed to the resting tremor of Parkinson's disease."
+  },
+  {
+    "id": 233,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What does the Berg Balance Scale assess and what score suggests high fall risk?",
+    "back": "It assesses functional balance across 14 tasks scored 0 to 4, with a total score below 45 out of 56 generally indicating an increased risk of falling."
+  },
+  {
+    "id": 234,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What does the Timed Up and Go test measure and what cutoff suggests fall risk?",
+    "back": "It measures the time to rise from a chair, walk 3 meters, turn, return, and sit down, with times greater than 12 seconds generally associated with increased fall risk in older adults."
+  },
+  {
+    "id": 235,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What does the Functional Reach Test measure and what cutoff suggests fall risk?",
+    "back": "It measures the maximum distance a person can reach forward beyond arm's length while maintaining a fixed base of support, with a reach of less than 6 inches indicating high fall risk."
+  },
+  {
+    "id": 236,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the Dynamic Gait Index used to assess?",
+    "back": "It assesses a person's ability to modify gait in response to changing task demands, such as walking with head turns, over obstacles, or with pivot turns, across 8 items."
+  },
+  {
+    "id": 237,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the four-square step test used to assess?",
+    "back": "Dynamic balance and stepping ability by having the patient step over four canes or sticks arranged in a cross pattern as quickly and safely as possible in all directions."
+  },
+  {
+    "id": 238,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the core principle of neurodevelopmental treatment approach?",
+    "back": "Facilitating normal movement patterns and inhibiting abnormal tone or reflexes through handling and key points of control, guiding the patient toward more typical postural and movement responses."
+  },
+  {
+    "id": 239,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is a key point of control in neurodevelopmental treatment?",
+    "back": "A proximal body region, such as the shoulder, pelvis, or trunk, that a therapist uses to guide and influence movement quality throughout the rest of the body."
+  },
+  {
+    "id": 240,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is weight bearing used for in neurodevelopmental treatment approaches?",
+    "back": "To normalize muscle tone, provide proprioceptive input, and facilitate postural stability and co-contraction around a joint or limb."
+  },
+  {
+    "id": 241,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the tonic labyrinthine reflex and how does it present?",
+    "back": "A primitive reflex in which prone positioning increases flexor tone and supine positioning increases extensor tone throughout the body."
+  },
+  {
+    "id": 242,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the asymmetrical tonic neck reflex and how does it present?",
+    "back": "Turning the head to one side causes extension of the limbs on the face side and flexion of the limbs on the skull side, resembling a fencing posture."
+  },
+  {
+    "id": 243,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the symmetrical tonic neck reflex and how does it present?",
+    "back": "Neck flexion causes arm flexion and leg extension, while neck extension causes arm extension and leg flexion."
+  },
+  {
+    "id": 244,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "Why is persistence of primitive reflexes beyond infancy clinically significant?",
+    "back": "It suggests central nervous system immaturity or damage and can interfere with the development of normal voluntary movement and functional postural control."
+  },
+  {
+    "id": 245,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is decorticate posturing and what does it indicate?",
+    "back": "Upper extremity flexion with lower extremity extension, indicating a lesion above the level of the red nucleus in the midbrain."
+  },
+  {
+    "id": 246,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is decerebrate posturing and what does it indicate?",
+    "back": "Rigid extension of both the upper and lower extremities, indicating a more caudal brainstem lesion at or below the level of the red nucleus, generally a worse prognostic sign than decorticate posturing."
+  },
+  {
+    "id": 247,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What are early signs of increased intracranial pressure that a therapist should monitor for?",
+    "back": "Headache, vomiting, decreased level of consciousness, and Cushing's triad of hypertension, bradycardia, and irregular respiration."
+  },
+  {
+    "id": 248,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is heterotopic ossification and in which populations is it common?",
+    "back": "Abnormal bone formation in soft tissue around joints, commonly seen after traumatic brain injury and spinal cord injury, often presenting as decreased range of motion with local swelling and warmth."
+  },
+  {
+    "id": 249,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the difference between flaccidity and spasticity in terms of muscle tone?",
+    "back": "Flaccidity is complete absence of muscle tone typically from a lower motor neuron or acute upper motor neuron lesion, while spasticity is velocity-dependent increased resistance to passive stretch from an upper motor neuron lesion."
+  },
+  {
+    "id": 250,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is clonus and how is it clinically tested?",
+    "back": "Rhythmic, involuntary muscle contractions in response to a sudden sustained stretch, commonly tested at the ankle by quickly dorsiflexing the foot and observing rhythmic beats."
+  },
+  {
+    "id": 251,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the Modified Ashworth Scale used to measure?",
+    "back": "The degree of resistance to passive stretch as a clinical measure of spasticity, graded from 0, no increase in tone, to 4, rigid in flexion or extension."
+  },
+  {
+    "id": 252,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What distinguishes upper motor neuron from lower motor neuron lesion presentations?",
+    "back": "Upper motor neuron lesions cause spasticity, hyperreflexia, and no significant atrophy, while lower motor neuron lesions cause flaccidity, hyporeflexia or areflexia, and significant muscle atrophy with fasciculations."
+  },
+  {
+    "id": 253,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is myasthenia gravis and its characteristic pattern of weakness?",
+    "back": "An autoimmune disorder affecting the neuromuscular junction that causes fluctuating muscle weakness that worsens with activity and improves with rest, often affecting ocular and facial muscles first."
+  },
+  {
+    "id": 254,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is amyotrophic lateral sclerosis and what motor neuron pattern does it affect?",
+    "back": "A progressive neurodegenerative disease affecting both upper and lower motor neurons, presenting with a combination of spasticity and flaccidity, fasciculations, and progressive muscle wasting, without sensory loss."
+  },
+  {
+    "id": 255,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the primary treatment consideration for exercise prescription in amyotrophic lateral sclerosis?",
+    "back": "Use moderate, submaximal exercise intensity and avoid overwork fatigue, since excessive exertion in already-compromised motor units can accelerate weakness."
+  },
+  {
+    "id": 256,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is diabetic peripheral neuropathy's typical clinical presentation?",
+    "back": "A symmetric, distal, stocking-glove sensory loss beginning in the feet, with decreased proprioception and vibration sense increasing fall risk and skin breakdown risk."
+  },
+  {
+    "id": 257,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the pull test used for in Parkinson's disease assessment?",
+    "back": "It assesses postural instability by applying a quick backward pull on the shoulders while the examiner stands ready to catch the patient, with more than two retropulsive steps or a fall considered abnormal."
+  },
+  {
+    "id": 258,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the primary difference between an upper motor neuron bladder and a lower motor neuron bladder after spinal cord injury?",
+    "back": "An upper motor neuron bladder is spastic and reflexively empties involuntarily, while a lower motor neuron bladder is flaccid, retains urine, and requires manual expression or catheterization."
+  },
+  {
+    "id": 259,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is the significance of a positive Babinski sign?",
+    "back": "Dorsiflexion of the great toe with fanning of the other toes upon plantar stimulation indicates an upper motor neuron lesion in anyone beyond infancy."
+  },
+  {
+    "id": 260,
+    "domain": "neuromuscular_and_nervous_system",
+    "front": "What is apraxia and how does it differ from paresis?",
+    "back": "Apraxia is the inability to perform a learned purposeful motor task despite intact strength, sensation, and comprehension, distinguishing it from paresis which is true muscle weakness."
+  },
+  {
+    "id": 261,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What are the goals of Phase I cardiac rehabilitation?",
+    "back": "Phase I is the inpatient acute phase after MI, CABG, or other cardiac event. Goals include early mobilization, patient education, prevention of deconditioning, and safe progression of low-level activity (typically 1 to 2 METs) before discharge."
+  },
+  {
+    "id": 262,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What defines Phase II cardiac rehabilitation?",
+    "back": "Phase II is an outpatient, monitored program that typically begins within a few weeks of discharge and lasts 8 to 12 weeks. It involves ECG-monitored exercise, risk factor modification, and gradual progression of exercise intensity."
+  },
+  {
+    "id": 263,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What characterizes Phase III cardiac rehabilitation?",
+    "back": "Phase III is a supervised but typically non-ECG-monitored community-based exercise program that continues to build endurance and independence, usually lasting several months after Phase II completion."
+  },
+  {
+    "id": 264,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is Phase IV cardiac rehabilitation?",
+    "back": "Phase IV is a lifelong, unsupervised maintenance phase focused on independent exercise, ongoing risk factor management, and long-term lifestyle change to sustain cardiovascular health."
+  },
+  {
+    "id": 265,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is the numeric range of the original Borg RPE scale?",
+    "back": "The original Borg scale ranges from 6 to 20, with the numbers roughly correlating to heart rate divided by 10 (for example, a rating of 13 corresponds to about a heart rate of 130 bpm in an average adult)."
+  },
+  {
+    "id": 266,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What RPE range on the 6 to 20 Borg scale is generally recommended for moderate-intensity cardiac rehab exercise?",
+    "back": "A rating of 12 to 13 (somewhat hard) on the 6 to 20 scale is generally the target for moderate-intensity aerobic exercise in cardiac rehabilitation."
+  },
+  {
+    "id": 267,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is the range of the modified (category-ratio) Borg CR10 scale?",
+    "back": "The modified Borg CR10 scale ranges from 0 (nothing at all) to 10 (maximal exertion), and a rating of 3 to 4 is often used as a target for moderate exercise intensity."
+  },
+  {
+    "id": 268,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What does the F in the FITT principle stand for, and what does it mean?",
+    "back": "F stands for Frequency, referring to how often exercise is performed, typically expressed as sessions per week (for example, 3 to 5 days per week for aerobic conditioning)."
+  },
+  {
+    "id": 269,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What does the I in the FITT principle stand for?",
+    "back": "I stands for Intensity, the level of exertion during exercise, which can be prescribed using percentage of heart rate reserve, RPE, MET level, or percentage of VO2 max."
+  },
+  {
+    "id": 270,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What does the first T in the FITT principle stand for?",
+    "back": "The first T stands for Time, meaning the duration of each exercise session, commonly 20 to 60 minutes for cardiovascular conditioning."
+  },
+  {
+    "id": 271,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What does the second T in the FITT principle stand for?",
+    "back": "The second T stands for Type, meaning the mode of exercise such as walking, cycling, swimming, or resistance training, chosen based on patient goals and limitations."
+  },
+  {
+    "id": 272,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "How is target heart rate calculated using the Karvonen (heart rate reserve) formula?",
+    "back": "Target HR equals (heart rate reserve times desired intensity percentage) plus resting heart rate, where heart rate reserve equals maximum heart rate minus resting heart rate."
+  },
+  {
+    "id": 273,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "How is age-predicted maximum heart rate estimated?",
+    "back": "Age-predicted maximum heart rate is commonly estimated as 220 minus the patient's age in years, though this is a general estimate and can vary considerably between individuals."
+  },
+  {
+    "id": 274,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is one MET defined as?",
+    "back": "One MET (metabolic equivalent of task) is defined as the resting oxygen consumption of a seated adult, equal to approximately 3.5 mL of oxygen per kilogram of body weight per minute."
+  },
+  {
+    "id": 275,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "Approximately how many METs does slow walking (about 2 mph) require?",
+    "back": "Slow, level walking at about 2 mph requires approximately 2 to 2.5 METs, generally considered a low-intensity activity appropriate for early Phase I or II cardiac rehab."
+  },
+  {
+    "id": 276,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "Approximately how many METs does light housework such as dusting or dishwashing require?",
+    "back": "Light housework typically requires approximately 2 to 3 METs, similar in demand to slow walking."
+  },
+  {
+    "id": 277,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "Approximately how many METs does climbing stairs require?",
+    "back": "Climbing stairs at a normal pace typically requires approximately 4 to 6 METs, rising toward 8 METs when climbing rapidly or carrying a load."
+  },
+  {
+    "id": 278,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "Approximately how many METs does sexual activity typically require?",
+    "back": "Sexual activity with a familiar partner typically requires approximately 2.5 to 5 METs, a common benchmark used when counseling patients recovering from a cardiac event."
+  },
+  {
+    "id": 279,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What MET level is often used as the criterion for safe hospital discharge after MI?",
+    "back": "Tolerating an activity level of approximately 3.5 to 5 METs without abnormal signs or symptoms is often used as a benchmark for readiness for hospital discharge after an uncomplicated MI."
+  },
+  {
+    "id": 280,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What blood pressure response to exercise is considered abnormal and requires terminating a test or session?",
+    "back": "A drop in systolic blood pressure of 10 mmHg or more from baseline that occurs with an increase in workload, especially when accompanied by other signs of ischemia, is an abnormal response and an indication to stop exercise."
+  },
+  {
+    "id": 281,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What resting or exercise blood pressure values generally indicate exercise should not begin or should be terminated?",
+    "back": "A systolic blood pressure greater than 250 mmHg or diastolic greater than 115 mmHg, or a resting systolic below 90 mmHg with symptoms, are generally indications to withhold or stop exercise."
+  },
+  {
+    "id": 282,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What heart rate response is considered abnormal during exercise testing?",
+    "back": "A failure of heart rate to increase with increasing workload (chronotropic incompetence), or an excessive rise in heart rate disproportionate to workload, are both considered abnormal responses warranting further evaluation."
+  },
+  {
+    "id": 283,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What oxygen saturation level is commonly used as a criterion to terminate an activity or exercise session?",
+    "back": "An SpO2 that falls below 88 to 90 percent is a common criterion to stop activity and reassess the patient, since this indicates significant desaturation."
+  },
+  {
+    "id": 284,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What signs and symptoms should prompt immediate termination of an exercise session regardless of vital signs?",
+    "back": "Onset of angina, significant dyspnea, dizziness, pallor, cyanosis, ataxia, confusion, or patient request to stop should all prompt immediate cessation of exercise."
+  },
+  {
+    "id": 285,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What are typical post-MI or post-CABG activity precautions in the acute phase?",
+    "back": "Patients are typically advised to avoid heavy lifting, Valsalva maneuvers, and high-intensity upper extremity activity, and sternal precautions after CABG restrict pushing, pulling, or lifting more than about 5 to 10 pounds for approximately 6 to 8 weeks."
+  },
+  {
+    "id": 286,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What are sternal precautions and why are they used?",
+    "back": "Sternal precautions limit shoulder flexion and abduction beyond 90 degrees, bilateral overhead reaching, and pushing or pulling with the arms, to protect the healing sternotomy incision and prevent sternal instability after CABG surgery."
+  },
+  {
+    "id": 287,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is claudication?",
+    "back": "Claudication is reproducible ischemic muscle pain, most commonly in the calf, that occurs with a consistent level of activity such as walking and is relieved by rest, caused by inadequate arterial blood flow (peripheral vascular disease)."
+  },
+  {
+    "id": 288,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What exercise recommendation is typically given for patients with intermittent claudication from PVD?",
+    "back": "Patients are typically instructed to walk to a moderate level of claudication pain, rest until it subsides, then resume walking, repeating this interval pattern to promote collateral circulation and improve walking tolerance over time."
+  },
+  {
+    "id": 289,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is the ankle-brachial index (ABI) used for?",
+    "back": "The ABI is the ratio of ankle systolic blood pressure to brachial systolic blood pressure, used to screen for and grade the severity of peripheral arterial disease; a normal ABI is approximately 1.0 to 1.4."
+  },
+  {
+    "id": 290,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What ABI value is generally considered indicative of significant peripheral arterial disease?",
+    "back": "An ABI below 0.9 is generally considered indicative of peripheral arterial disease, with values below 0.4 suggesting severe disease and possible critical limb ischemia."
+  },
+  {
+    "id": 291,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What are the classic signs of a deep vein thrombosis (DVT)?",
+    "back": "Classic signs of DVT include unilateral calf or leg swelling, warmth, redness, and tenderness, sometimes with a palpable cord; Homans sign is unreliable and no longer recommended for clinical use."
+  },
+  {
+    "id": 292,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What should a therapist do if a DVT is suspected during a treatment session?",
+    "back": "If DVT is suspected, the therapist should stop exercise, avoid massaging or aggressively mobilizing the limb, and notify the physician immediately due to the risk of pulmonary embolism from a dislodged clot."
+  },
+  {
+    "id": 293,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What are common signs and symptoms of a pulmonary embolism?",
+    "back": "Common signs and symptoms of pulmonary embolism include sudden onset dyspnea, pleuritic chest pain, tachycardia, tachypnea, hemoptysis, and anxiety or a sense of impending doom, and it represents a medical emergency."
+  },
+  {
+    "id": 294,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is the hallmark pulmonary function pattern of COPD?",
+    "back": "COPD demonstrates an obstructive pattern with a reduced FEV1 to FVC ratio, increased total lung capacity and residual volume from air trapping, and reduced expiratory flow rates."
+  },
+  {
+    "id": 295,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is the hallmark pulmonary function pattern of restrictive lung disease?",
+    "back": "Restrictive lung disease shows a reduced total lung capacity and reduced forced vital capacity, but the FEV1 to FVC ratio is normal or even increased because both values fall proportionally."
+  },
+  {
+    "id": 296,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is pursed-lip breathing used for in COPD management?",
+    "back": "Pursed-lip breathing slows expiratory flow and creates back-pressure that helps keep airways open longer during exhalation, reducing air trapping, dyspnea, and the work of breathing in patients with COPD."
+  },
+  {
+    "id": 297,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is diaphragmatic (belly) breathing used to teach patients with pulmonary disease?",
+    "back": "Diaphragmatic breathing trains patients to use the diaphragm rather than accessory muscles for inspiration, improving ventilation efficiency and reducing the work of breathing, particularly useful in COPD and post-surgical patients."
+  },
+  {
+    "id": 298,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What position is commonly used to relieve dyspnea in patients with COPD?",
+    "back": "The tripod position, sitting leaning forward with arms braced on the knees or a table, is commonly used because it stabilizes the shoulder girdle and allows accessory muscles to assist more effectively with breathing."
+  },
+  {
+    "id": 299,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What are the goals of pulmonary rehabilitation?",
+    "back": "Pulmonary rehabilitation aims to improve exercise tolerance, reduce dyspnea, improve breathing efficiency, provide education on disease self-management, and enhance overall quality of life in patients with chronic pulmonary disease."
+  },
+  {
+    "id": 300,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is postural drainage in chest physical therapy?",
+    "back": "Postural drainage uses specific gravity-assisted body positions to promote the movement of secretions from particular lung segments toward the central airways for easier clearance by coughing or suctioning."
+  },
+  {
+    "id": 301,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is percussion in chest physical therapy and what is its purpose?",
+    "back": "Percussion involves rhythmic clapping with cupped hands over the chest wall to mechanically loosen retained secretions, typically performed in conjunction with postural drainage positioning."
+  },
+  {
+    "id": 302,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is vibration in chest physical therapy and how does it differ from percussion?",
+    "back": "Vibration is a fine oscillatory pressure applied with flattened hands over the chest wall during exhalation to help move loosened secretions toward larger airways; unlike percussion, it is applied only on exhalation."
+  },
+  {
+    "id": 303,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is huffing (forced expiratory technique) used for in airway clearance?",
+    "back": "Huffing involves a forced but open-glottis exhalation used to move secretions toward the central airways without triggering the airway collapse or fatigue that repeated forceful coughing can cause."
+  },
+  {
+    "id": 304,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What contraindications should be checked before performing postural drainage with head-down (Trendelenburg) positions?",
+    "back": "Head-down postural drainage positions are contraindicated or used cautiously in patients with uncontrolled hypertension, increased intracranial pressure, recent eye or abdominal surgery, severe dyspnea, or hemoptysis."
+  },
+  {
+    "id": 305,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is the incentive spirometer used for and how is it used?",
+    "back": "The incentive spirometer is a device that encourages slow, sustained maximal inspiration to prevent or reverse atelectasis, commonly used postoperatively; the patient inhales slowly to raise the indicator ball or piston and holds the breath briefly before exhaling."
+  },
+  {
+    "id": 306,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is a normal P wave on an ECG represent?",
+    "back": "The P wave represents atrial depolarization, and a normal P wave should be upright, rounded, and precede each QRS complex in a regular sinus rhythm."
+  },
+  {
+    "id": 307,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What does the QRS complex on an ECG represent?",
+    "back": "The QRS complex represents ventricular depolarization, with a normal duration of less than 0.12 seconds; a widened QRS suggests a conduction delay such as a bundle branch block or ventricular origin of the beat."
+  },
+  {
+    "id": 308,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What does the T wave on an ECG represent?",
+    "back": "The T wave represents ventricular repolarization, and inverted or peaked T waves can indicate myocardial ischemia or electrolyte disturbances such as hyperkalemia."
+  },
+  {
+    "id": 309,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What ECG finding is characteristic of atrial fibrillation?",
+    "back": "Atrial fibrillation is characterized by an irregularly irregular rhythm with no discernible, consistent P waves, replaced instead by a chaotic fibrillatory baseline."
+  },
+  {
+    "id": 310,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What defines sinus tachycardia on an ECG?",
+    "back": "Sinus tachycardia shows a normal P wave before each QRS complex with a regular rhythm, but the rate exceeds 100 beats per minute, often a normal physiologic response to exercise, fever, or stress."
+  },
+  {
+    "id": 311,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is ventricular tachycardia and why is it clinically significant?",
+    "back": "Ventricular tachycardia is a rapid rhythm of three or more consecutive wide QRS complexes originating in the ventricles, which is clinically significant because it can rapidly deteriorate into ventricular fibrillation and cardiac arrest, requiring immediate medical attention."
+  },
+  {
+    "id": 312,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What does ST segment elevation on an ECG typically indicate?",
+    "back": "ST segment elevation typically indicates acute myocardial injury, most classically an ST-elevation myocardial infarction (STEMI), and requires immediate medical evaluation."
+  },
+  {
+    "id": 313,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What does ST segment depression typically indicate, particularly during exercise testing?",
+    "back": "ST segment depression, especially horizontal or downsloping depression of 1 mm or more during exercise, typically indicates myocardial ischemia and is a criterion to terminate an exercise test."
+  },
+  {
+    "id": 314,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is a premature ventricular contraction (PVC) and when does it become concerning?",
+    "back": "A PVC is an early, wide QRS complex originating from an ectopic ventricular focus without a preceding P wave; PVCs become concerning when they occur frequently, in couplets or triplets, or increase with exercise, since this may signal ventricular irritability."
+  },
+  {
+    "id": 315,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What activity should be avoided immediately after cardiac catheterization via the femoral approach?",
+    "back": "Hip flexion, sitting upright, and ambulation should be avoided for a specified period after femoral catheterization to prevent bleeding or hematoma formation at the puncture site, per physician protocol."
+  },
+  {
+    "id": 316,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is the general rule of thumb for progressing MET level demands during early cardiac rehabilitation?",
+    "back": "A common general guideline is not to exceed the MET level achieved during symptom-limited exercise testing, and to progress gradually while monitoring for signs of overexertion such as excessive fatigue lasting into the next day."
+  },
+  {
+    "id": 317,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is angina pectoris?",
+    "back": "Angina pectoris is chest discomfort or pain caused by reversible myocardial ischemia, typically brought on by exertion or stress and relieved by rest or nitroglycerin."
+  },
+  {
+    "id": 318,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "How does stable angina differ from unstable angina?",
+    "back": "Stable angina occurs predictably with a consistent level of exertion and resolves with rest or nitroglycerin, while unstable angina occurs at rest, is new in onset, or is increasing in frequency or severity, and represents an acute coronary syndrome requiring urgent medical attention."
+  },
+  {
+    "id": 319,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What should a therapist do if a patient reports new or worsening chest pain during exercise?",
+    "back": "The therapist should stop the activity immediately, have the patient rest, assess vital signs, ask about pain characteristics, and notify medical staff promptly, since this could indicate myocardial ischemia."
+  },
+  {
+    "id": 320,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What are the FEV1/FVC criteria typically used to grade the severity of obstructive lung disease?",
+    "back": "An FEV1/FVC ratio below 70 percent (0.70) defines obstruction, with severity further graded by the percent-predicted FEV1 value itself, where lower percentages indicate more severe obstruction."
+  },
+  {
+    "id": 321,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is orthopnea and what condition is it commonly associated with?",
+    "back": "Orthopnea is dyspnea that occurs when lying flat and improves with sitting or standing upright, commonly associated with congestive heart failure due to redistribution of fluid to the lungs when supine."
+  },
+  {
+    "id": 322,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is paroxysmal nocturnal dyspnea (PND)?",
+    "back": "PND is sudden, severe shortness of breath that awakens a patient from sleep, typically relieved by sitting up, and is a classic symptom of left-sided heart failure."
+  },
+  {
+    "id": 323,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is a normal resting adult respiratory rate range?",
+    "back": "A normal resting adult respiratory rate is approximately 12 to 20 breaths per minute; tachypnea refers to rates above this range and bradypnea to rates below it."
+  },
+  {
+    "id": 324,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What weight gain finding should prompt concern for fluid retention in a patient with heart failure?",
+    "back": "A weight gain of 2 to 3 pounds in a single day, or 5 pounds in a week, should prompt concern for fluid retention and worsening heart failure, warranting physician notification."
+  },
+  {
+    "id": 325,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is the significance of pitting edema in a patient with cardiac disease?",
+    "back": "Pitting edema, particularly in the lower extremities, suggests fluid overload and can indicate right-sided or biventricular heart failure, and its severity is often graded on a scale from 1+ to 4+."
+  },
+  {
+    "id": 326,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is the general precaution regarding resistance training intensity early in cardiac rehabilitation?",
+    "back": "Resistance training in early cardiac rehab typically uses low resistance with higher repetitions, avoiding heavy lifting and Valsalva maneuvers, and is often delayed several weeks after an acute cardiac event per physician clearance."
+  },
+  {
+    "id": 327,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What does a decrease in oxygen saturation with exertion in a patient with restrictive or obstructive lung disease typically indicate?",
+    "back": "A drop in SpO2 with exertion typically indicates a ventilation-perfusion mismatch or impaired gas exchange, and supplemental oxygen titration may be needed to maintain safe saturation during activity."
+  },
+  {
+    "id": 328,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is the general recommendation for exercising a patient who is on supplemental oxygen?",
+    "back": "The patient should continue using their prescribed supplemental oxygen during exercise, with flow rate adjusted per physician order as needed to maintain SpO2 at or above the target threshold, commonly 90 percent or higher."
+  },
+  {
+    "id": 329,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is the clinical significance of a rate-pressure product (double product) in cardiac rehab monitoring?",
+    "back": "The rate-pressure product, calculated as heart rate multiplied by systolic blood pressure, estimates myocardial oxygen demand, and tracking it helps identify the workload at which a patient develops ischemic symptoms so future sessions can be dosed safely below that threshold."
+  },
+  {
+    "id": 330,
+    "domain": "cardiovascular_and_pulmonary_systems",
+    "front": "What is the general precaution regarding Valsalva maneuver during exercise in cardiac patients?",
+    "back": "Patients should be instructed to avoid breath-holding and straining (Valsalva maneuver) during exertion, such as while lifting, because it causes a rapid rise in intrathoracic pressure followed by a reflexive drop in blood pressure that can lead to dizziness or cardiac strain, and instead should be taught to exhale during the effort phase."
+  },
+  {
+    "id": 331,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What defines Stage 0 (latent) lymphedema in the International Society of Lymphology staging system?",
+    "back": "Subclinical impairment of lymphatic transport with no visible or measurable swelling, though the patient may report heaviness or fullness in the limb. Swelling can take months to years to appear after this stage."
+  },
+  {
+    "id": 332,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What distinguishes Stage I lymphedema from Stage 0?",
+    "back": "Stage I is early accumulation of protein-rich fluid that is relatively high in fluid content and pits on pressure. It reduces with limb elevation, unlike later stages."
+  },
+  {
+    "id": 333,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What are the hallmark features of Stage II lymphedema?",
+    "back": "Limb elevation alone rarely reduces the swelling, and pitting is present initially but tissue fibrosis develops over time so the limb may become non-pitting later in this stage."
+  },
+  {
+    "id": 334,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What characterizes Stage III lymphedema (lymphostatic elephantiasis)?",
+    "back": "Tissue is non-pitting with significant fibrosis and skin changes such as thickening, hyperkeratosis, papillomas, and increased limb volume. It represents the most advanced and least reversible stage."
+  },
+  {
+    "id": 335,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What are the four components of Complete Decongestive Therapy (CDT)?",
+    "back": "Manual lymphatic drainage, compression bandaging or garments, therapeutic exercise, and meticulous skin and nail care."
+  },
+  {
+    "id": 336,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What are the two phases of Complete Decongestive Therapy?",
+    "back": "Phase 1 is the intensive decongestive phase using daily manual lymphatic drainage and short-stretch bandaging to reduce volume. Phase 2 is the maintenance phase using compression garments and self-management to sustain the reduction."
+  },
+  {
+    "id": 337,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "Why are short-stretch (low-stretch) bandages preferred over long-stretch elastic bandages in lymphedema management?",
+    "back": "Short-stretch bandages provide high working pressure during muscle contraction to promote lymphatic and venous return, but low resting pressure at rest, which is safer and more effective than the sustained high resting pressure of long-stretch elastic wraps."
+  },
+  {
+    "id": 338,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What direction does manual lymphatic drainage massage move fluid in a limb with lymphedema?",
+    "back": "MLD strokes move fluid distal to proximal, following the normal direction of lymphatic flow toward the trunk and functioning nodes. Treatment sequencing, however, begins proximally, clearing the trunk quadrants and regional nodes first to create a path, before working distally down the limb."
+  },
+  {
+    "id": 339,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What is a key contraindication to manual lymphatic drainage and compression therapy?",
+    "back": "Active untreated infection or cellulitis in the limb, acute deep vein thrombosis, and uncontrolled congestive heart failure, since compression can overload central circulation."
+  },
+  {
+    "id": 340,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What skin finding suggests cellulitis in a lymphedematous limb and requires holding compression therapy?",
+    "back": "Acute onset of warmth, redness, tenderness, and often fever or chills, since compression during active infection can worsen the spread of infection."
+  },
+  {
+    "id": 341,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "Why is a diabetic patient at risk of hypoglycemia during exercise if insulin was injected into a working limb?",
+    "back": "Exercise increases blood flow to the injected area, accelerating insulin absorption and action, which can cause a rapid drop in blood glucose during or shortly after activity."
+  },
+  {
+    "id": 342,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What blood glucose level should prompt a physical therapist to postpone exercise in a person with type 1 diabetes?",
+    "back": "Blood glucose below 100 mg/dL should prompt a carbohydrate snack before exercising, and blood glucose above 250 mg/dL with ketones present should prompt postponing exercise due to risk of diabetic ketoacidosis."
+  },
+  {
+    "id": 343,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What are the classic signs of hypoglycemia during an exercise session?",
+    "back": "Shakiness, sweating, confusion, irritability, tachycardia, and pallor. Severe hypoglycemia can progress to loss of consciousness if untreated."
+  },
+  {
+    "id": 344,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What is the recommended immediate treatment for symptomatic hypoglycemia during a therapy session?",
+    "back": "Give 15 to 20 grams of fast-acting carbohydrate such as glucose tablets or juice, recheck blood glucose in 15 minutes, and repeat if still low before resuming activity."
+  },
+  {
+    "id": 345,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "Why should patients with diabetic peripheral neuropathy avoid high-impact weight-bearing exercise on insensate feet?",
+    "back": "Loss of protective sensation increases the risk of unnoticed trauma, blisters, and ulceration, so low-impact activities such as cycling or swimming are safer alternatives."
+  },
+  {
+    "id": 346,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What daily foot care instruction should be given to a patient with diabetes before starting an exercise program?",
+    "back": "Inspect the feet daily for redness, blisters, or breaks in skin, wear well-fitting shoes with clean dry socks, and report any nonhealing wound to a physician promptly."
+  },
+  {
+    "id": 347,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "How does proliferative diabetic retinopathy affect exercise prescription?",
+    "back": "High-intensity or Valsalva-type activities and activities involving jarring or head-down positions should be avoided because they can increase intraocular pressure and risk vitreous hemorrhage or retinal detachment."
+  },
+  {
+    "id": 348,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What cardiovascular precaution applies to exercise testing in patients with long-standing diabetes?",
+    "back": "Autonomic neuropathy may blunt the normal heart rate response to exercise, so use rating of perceived exertion rather than target heart rate alone to gauge intensity."
+  },
+  {
+    "id": 349,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What are the classic signs and symptoms of hyperthyroidism relevant to exercise tolerance?",
+    "back": "Tachycardia, heat intolerance, weight loss, tremor, anxiety, and exercise intolerance from an elevated resting metabolic rate. Exercise capacity may be reduced despite a hyperdynamic circulation."
+  },
+  {
+    "id": 350,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What are the classic signs and symptoms of hypothyroidism relevant to exercise tolerance?",
+    "back": "Fatigue, cold intolerance, weight gain, muscle weakness and stiffness, bradycardia, and reduced exercise capacity due to a slowed metabolic rate."
+  },
+  {
+    "id": 351,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "Why might a patient with untreated hypothyroidism report myalgias and elevated creatine kinase?",
+    "back": "Hypothyroid myopathy can cause muscle weakness, cramping, and elevated creatine kinase from impaired muscle metabolism, which can be mistaken for exercise-induced muscle injury."
+  },
+  {
+    "id": 352,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What is thyroid storm and why is it an exercise contraindication?",
+    "back": "Thyroid storm is a life-threatening exacerbation of hyperthyroidism with severe tachycardia, fever, and altered mental status. Any physical stress including exercise can precipitate or worsen it, so exercise is contraindicated until medically stabilized."
+  },
+  {
+    "id": 353,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What monitoring consideration applies to a patient on levothyroxine who reports new chest pain during exercise?",
+    "back": "Overreplacement of thyroid hormone can cause tachyarrhythmias and angina, so new cardiac symptoms should prompt stopping exercise and physician notification rather than assuming deconditioning."
+  },
+  {
+    "id": 354,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What type of exercise is most effective for increasing bone mineral density in osteoporosis?",
+    "back": "Weight-bearing and resistance exercise that loads bone above habitual stress, such as walking, stair climbing, and progressive resistance training, stimulates osteogenesis more than non-weight-bearing activity."
+  },
+  {
+    "id": 355,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What spinal movements should be avoided in a patient with osteoporosis due to vertebral compression fracture risk?",
+    "back": "Forward flexion combined with loading, such as toe touches or trunk flexion sit-ups, should be avoided since flexion increases anterior vertebral body compressive forces."
+  },
+  {
+    "id": 356,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "Why is trunk extension exercise emphasized over trunk flexion exercise in osteoporosis programs?",
+    "back": "Extension exercises strengthen the paraspinal muscles that support upright posture and reduce compressive load on the anterior vertebral bodies, lowering the risk of compression fractures."
+  },
+  {
+    "id": 357,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What activities are generally contraindicated for a patient with severe osteoporosis and multiple vertebral fractures?",
+    "back": "High-impact activities, spinal rotation with loading, and any activity with high fall risk should be avoided, since fracture risk is significantly elevated with minimal trauma."
+  },
+  {
+    "id": 358,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What is the FRAX tool used for in osteoporosis management?",
+    "back": "It estimates a patient's 10-year probability of major osteoporotic fracture and hip fracture based on clinical risk factors and bone mineral density, guiding treatment and exercise decisions."
+  },
+  {
+    "id": 359,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What T-score on DEXA scan defines osteoporosis versus osteopenia?",
+    "back": "A T-score of -2.5 or lower defines osteoporosis, while a T-score between -1.0 and -2.5 defines osteopenia (low bone mass), compared to a healthy young adult reference."
+  },
+  {
+    "id": 360,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What activity precaution follows abdominal surgery in the first several weeks postoperatively?",
+    "back": "Avoid heavy lifting and straining that increases intra-abdominal pressure, since this can disrupt fascial healing and increase risk of incisional hernia."
+  },
+  {
+    "id": 361,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What is the recommended lifting restriction typically given after abdominal surgery?",
+    "back": "Commonly no lifting greater than 10 pounds for the first several weeks, though the exact limit depends on surgeon protocol and type of procedure."
+  },
+  {
+    "id": 362,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "How should a patient with a colostomy be positioned or braced during therapeutic exercise involving trunk movement?",
+    "back": "The patient can splint the stoma area with a hand or pillow during coughing, transfers, or resisted trunk activity to reduce strain and protect the peristomal skin and appliance seal."
+  },
+  {
+    "id": 363,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What ostomy appliance issue should prompt a physical therapist to modify or stop an exercise session?",
+    "back": "Leakage of stool or urine from the appliance seal, peristomal skin breakdown, or a bulging stoma suggestive of parastomal hernia should prompt stopping exercise and addressing appliance fit."
+  },
+  {
+    "id": 364,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "Why should abdominal binders be used cautiously during exercise in a patient with a recent ostomy?",
+    "back": "An improperly placed binder can compress the stoma, impairing blood flow to the bowel or obstructing output, so binders should avoid direct pressure over the stoma site."
+  },
+  {
+    "id": 365,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What position is generally avoided early after abdominal or pelvic surgery due to increased intra-abdominal pressure?",
+    "back": "Prolonged Valsalva maneuver, such as breath holding during resistance exercise, is avoided because it sharply raises intra-abdominal pressure and can stress the healing incision."
+  },
+  {
+    "id": 366,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What is stress urinary incontinence and what is its primary underlying cause?",
+    "back": "Involuntary leakage of urine with activities that increase intra-abdominal pressure such as coughing, sneezing, or jumping. It is usually caused by pelvic floor muscle weakness or urethral hypermobility/sphincter insufficiency."
+  },
+  {
+    "id": 367,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What is urge urinary incontinence and what is its primary underlying mechanism?",
+    "back": "Involuntary leakage accompanied by or immediately preceded by a strong, sudden urge to void. It results from involuntary detrusor muscle contractions, often called overactive bladder."
+  },
+  {
+    "id": 368,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What is mixed urinary incontinence?",
+    "back": "A combination of stress and urge incontinence symptoms occurring in the same patient, requiring treatment strategies addressing both pelvic floor weakness and detrusor overactivity."
+  },
+  {
+    "id": 369,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What is overflow incontinence and what commonly causes it?",
+    "back": "Frequent or constant dribbling of urine due to an overdistended bladder that cannot empty completely, commonly from bladder outlet obstruction (such as prostatic enlargement) or an underactive detrusor muscle."
+  },
+  {
+    "id": 370,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What is functional incontinence?",
+    "back": "Urinary leakage that occurs because a person cannot reach the toilet in time due to physical or cognitive impairments, even though the urinary system itself functions normally."
+  },
+  {
+    "id": 371,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What is the primary first-line conservative treatment for stress urinary incontinence?",
+    "back": "Pelvic floor muscle training (Kegel exercises) to strengthen the levator ani and improve urethral support and closure pressure during increases in abdominal pressure."
+  },
+  {
+    "id": 372,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What behavioral strategy is commonly used to treat urge incontinence and overactive bladder?",
+    "back": "Bladder training with scheduled, progressively lengthened voiding intervals, combined with urge suppression techniques such as pelvic floor contraction (a 'quick flick') and distraction to inhibit the urge."
+  },
+  {
+    "id": 373,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "How should a patient correctly perform a pelvic floor muscle contraction for a Kegel exercise?",
+    "back": "Contract the muscles as if stopping the flow of urine or preventing passage of gas, lifting the pelvic floor upward and inward, without contracting the gluteal, abdominal, or hip adductor muscles as substitutions."
+  },
+  {
+    "id": 374,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What is biofeedback used for in pelvic floor rehabilitation?",
+    "back": "It provides visual or auditory feedback of pelvic floor muscle activity, typically via surface EMG or manometry, to help patients learn correct contraction and relaxation patterns and avoid substitution strategies."
+  },
+  {
+    "id": 375,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What type of urinary incontinence is most common in men following radical prostatectomy?",
+    "back": "Stress urinary incontinence, resulting from damage to the urethral sphincter mechanism and surrounding support structures during removal of the prostate."
+  },
+  {
+    "id": 376,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "When is pelvic floor muscle training typically initiated after radical prostatectomy?",
+    "back": "Often preoperatively when possible, and postoperatively once the urinary catheter is removed, since early pelvic floor training has been shown to speed return of continence."
+  },
+  {
+    "id": 377,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What erectile and continence-related complication is common after radical prostatectomy due to shared anatomy?",
+    "back": "Erectile dysfunction can occur alongside stress incontinence because the neurovascular bundles controlling erectile function run close to the prostate and urethral sphincter and may be affected during surgery."
+  },
+  {
+    "id": 378,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What activity precaution is often given in the first weeks after prostatectomy regarding lifting and straining?",
+    "back": "Avoid heavy lifting, straining, and high-impact activity for several weeks to protect the surgical site and reduce intra-abdominal pressure that could worsen leakage or delay healing."
+  },
+  {
+    "id": 379,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What is the difference between pelvic floor muscle overactivity and underactivity in terms of clinical presentation?",
+    "back": "Overactivity presents with an inability to relax the pelvic floor, often causing pelvic pain, constipation, or urinary hesitancy, while underactivity presents with weakness contributing to incontinence and pelvic organ prolapse."
+  },
+  {
+    "id": 380,
+    "domain": "lymphatic_metabolic_endocrine_gi_and_gu_systems",
+    "front": "What lifestyle factor is commonly addressed as a bladder irritant in patients with urge incontinence?",
+    "back": "Caffeine intake is a common bladder irritant that can increase urinary urgency and frequency, so reducing caffeinated beverages is a standard behavioral recommendation alongside bladder training."
+  },
+  {
+    "id": 381,
+    "domain": "integumentary_system",
+    "front": "What defines a Stage 1 pressure injury?",
+    "back": "Intact skin with non-blanchable erythema over a bony prominence. Skin temperature, edema, or firmness may differ from surrounding tissue, but there is no open wound."
+  },
+  {
+    "id": 382,
+    "domain": "integumentary_system",
+    "front": "What defines a Stage 2 pressure injury?",
+    "back": "Partial-thickness skin loss with exposed dermis, presenting as a shallow open ulcer with a pink or red wound bed, or an intact or ruptured serum-filled blister. No slough or granulation tissue is present."
+  },
+  {
+    "id": 383,
+    "domain": "integumentary_system",
+    "front": "What defines a Stage 3 pressure injury?",
+    "back": "Full-thickness skin loss in which adipose tissue is visible in the ulcer, and granulation tissue and rolled wound edges are often present. Bone, tendon, and muscle are not exposed."
+  },
+  {
+    "id": 384,
+    "domain": "integumentary_system",
+    "front": "What defines a Stage 4 pressure injury?",
+    "back": "Full-thickness skin and tissue loss with exposed or directly palpable fascia, muscle, tendon, ligament, cartilage, or bone. Slough or eschar may be present, and undermining or tunneling is common."
+  },
+  {
+    "id": 385,
+    "domain": "integumentary_system",
+    "front": "How is an unstageable pressure injury defined and staged?",
+    "back": "Full-thickness skin and tissue loss in which the extent of tissue damage cannot be confirmed because the wound bed is obscured by slough or eschar. It cannot be staged until enough slough or eschar is removed to expose the base."
+  },
+  {
+    "id": 386,
+    "domain": "integumentary_system",
+    "front": "What is a deep tissue pressure injury (DTPI)?",
+    "back": "Intact or non-intact skin with a localized area of persistent non-blanchable deep red, maroon, or purple discoloration, or an epidermal separation revealing a dark wound bed or blood-filled blister, resulting from intense and/or prolonged pressure and shear at the bone-muscle interface."
+  },
+  {
+    "id": 387,
+    "domain": "integumentary_system",
+    "front": "Why can a deep tissue injury not simply be called a Stage 4 wound on first assessment?",
+    "back": "The true extent of underlying tissue damage is not yet visible at the surface, so staging is deferred until the wound evolves and demarcates, which may reveal a much deeper injury than initially apparent."
+  },
+  {
+    "id": 388,
+    "domain": "integumentary_system",
+    "front": "A therapist finds a pressure injury covered entirely in thick black eschar. How should this be documented?",
+    "back": "As an unstageable pressure injury, since the wound bed is obscured and the true depth cannot be determined until debridement occurs."
+  },
+  {
+    "id": 389,
+    "domain": "integumentary_system",
+    "front": "What percentage of total body surface area (TBSA) does each arm represent using the Rule of Nines in an adult?",
+    "back": "9% per arm (front and back combined), for a total of 18% for both upper extremities."
+  },
+  {
+    "id": 390,
+    "domain": "integumentary_system",
+    "front": "What percentage of TBSA does each leg represent using the adult Rule of Nines?",
+    "back": "18% per leg (front and back combined), for a total of 36% for both lower extremities."
+  },
+  {
+    "id": 391,
+    "domain": "integumentary_system",
+    "front": "What percentage of TBSA do the head and the anterior and posterior trunk each represent in the adult Rule of Nines?",
+    "back": "The head represents 9%, the anterior trunk 18%, and the posterior trunk 18%. Combined with 18% for both arms, 36% for both legs, and 1% for the genital region, these figures sum to 100%."
+  },
+  {
+    "id": 392,
+    "domain": "integumentary_system",
+    "front": "How does the Rule of Nines differ for infants and young children compared to adults?",
+    "back": "The head accounts for a larger proportion (about 18%) and the legs a smaller proportion (about 14% each) because an infant's head is proportionally larger relative to body size, so the Lund and Browder chart is used for more accurate pediatric estimation."
+  },
+  {
+    "id": 393,
+    "domain": "integumentary_system",
+    "front": "Describe the clinical presentation of a superficial (first-degree) burn.",
+    "back": "Involves only the epidermis, presenting as red, dry, painful skin without blisters, similar to a mild sunburn, and typically heals within 3 to 7 days without scarring."
+  },
+  {
+    "id": 394,
+    "domain": "integumentary_system",
+    "front": "Describe the clinical presentation of a superficial partial-thickness (second-degree) burn.",
+    "back": "Involves the epidermis and upper dermis, presenting as red, moist, blistered skin that is very painful and blanches with pressure, and typically heals in 1 to 3 weeks with minimal scarring."
+  },
+  {
+    "id": 395,
+    "domain": "integumentary_system",
+    "front": "Describe the clinical presentation of a deep partial-thickness burn.",
+    "back": "Involves the epidermis and deeper dermis, presenting as red or waxy white, wet or dry skin with decreased sensation and diminished capillary refill, requiring several weeks to heal and often needing grafting, with a high risk of hypertrophic scarring."
+  },
+  {
+    "id": 396,
+    "domain": "integumentary_system",
+    "front": "Describe the clinical presentation of a full-thickness (third-degree) burn.",
+    "back": "Destroys the epidermis and entire dermis, presenting as dry, leathery, white, brown, or charred skin that is insensate to pain because nerve endings are destroyed, and it requires surgical grafting to heal."
+  },
+  {
+    "id": 397,
+    "domain": "integumentary_system",
+    "front": "What defines a fourth-degree burn?",
+    "back": "A burn that extends through the entire skin into subcutaneous fat, muscle, tendon, or bone, resulting in charred, insensate tissue that requires extensive surgical management and often amputation or reconstruction."
+  },
+  {
+    "id": 398,
+    "domain": "integumentary_system",
+    "front": "Why is a deep partial-thickness burn often more painful initially than a full-thickness burn, yet the pain can be misleading?",
+    "back": "Because some nerve endings remain intact in the deeper dermis of a partial-thickness burn, whereas full-thickness burns destroy nerve endings entirely, so an insensate wound is actually a sign of greater severity, not less."
+  },
+  {
+    "id": 399,
+    "domain": "integumentary_system",
+    "front": "Where do arterial (ischemic) ulcers typically occur, and what do they look like?",
+    "back": "They occur distally, such as over the toes, lateral malleolus, and dorsum of the foot, presenting as small, round, deep ulcers with a pale, dry wound bed, minimal exudate, and well-defined punched-out borders."
+  },
+  {
+    "id": 400,
+    "domain": "integumentary_system",
+    "front": "What pain pattern is characteristic of arterial ulcers, and why?",
+    "back": "Pain increases with leg elevation and decreases with the leg in a dependent position, because elevation further reduces already compromised arterial blood flow while dependency uses gravity to assist perfusion."
+  },
+  {
+    "id": 401,
+    "domain": "integumentary_system",
+    "front": "Where do venous insufficiency ulcers typically occur, and what do they look like?",
+    "back": "They occur most often over the medial malleolus and distal leg, presenting as shallow, irregularly shaped ulcers with a ruddy red or yellow fibrous wound bed, heavy exudate, and surrounding hemosiderin staining and edema."
+  },
+  {
+    "id": 402,
+    "domain": "integumentary_system",
+    "front": "What is the primary conservative treatment for venous insufficiency ulcers, and why does it work?",
+    "back": "Compression therapy, because it counteracts venous hypertension and reduces edema by supporting venous return from the lower extremity back toward the heart."
+  },
+  {
+    "id": 403,
+    "domain": "integumentary_system",
+    "front": "Why is compression therapy contraindicated in a patient with significant arterial insufficiency?",
+    "back": "Compression can further restrict already compromised arterial blood flow, risking tissue ischemia and necrosis, so ankle-brachial index should be checked before compression is applied."
+  },
+  {
+    "id": 404,
+    "domain": "integumentary_system",
+    "front": "Where do neuropathic (diabetic) ulcers typically occur, and what do they look like?",
+    "back": "They occur over pressure and friction points on the plantar surface of the foot, such as under the metatarsal heads or the heel, presenting as deep ulcers often surrounded by callus, with a well-defined border and typically painless despite significant depth."
+  },
+  {
+    "id": 405,
+    "domain": "integumentary_system",
+    "front": "Why are neuropathic ulcers often painless despite being deep, and what does this imply for treatment?",
+    "back": "Peripheral sensory neuropathy reduces protective sensation, so the patient cannot feel the injury forming, which means offloading pressure with total contact casting or specialized footwear is essential since pain cannot serve as a warning sign."
+  },
+  {
+    "id": 406,
+    "domain": "system_interactions",
+    "front": "A patient reports saddle anesthesia, bilateral leg weakness, and new urinary retention during a lumbar spine evaluation. What condition must be ruled out immediately?",
+    "back": "Cauda equina syndrome. This is a surgical emergency requiring immediate physician referral because delayed decompression can cause permanent bowel, bladder, and lower extremity dysfunction."
+  },
+  {
+    "id": 407,
+    "domain": "system_interactions",
+    "front": "How can a therapist distinguish cardiac chest pain from musculoskeletal chest pain during an exercise session?",
+    "back": "Cardiac chest pain typically is not reproduced by palpation or a specific movement, often worsens with exertion and improves with rest, and may be accompanied by diaphoresis, nausea, or radiating arm/jaw pain. Musculoskeletal pain is usually reproducible with palpation or a specific motion."
+  },
+  {
+    "id": 408,
+    "domain": "system_interactions",
+    "front": "List the classic clinical signs suggestive of a deep vein thrombosis (DVT) in the calf.",
+    "back": "Unilateral calf swelling, warmth, redness, and tenderness. A positive Homans sign is classically taught but is now considered an outdated, unreliable screening tool and should never be used alone to rule DVT in or out. Any suspected DVT warrants immediate physician referral before continuing exercise or manual therapy."
+  },
+  {
+    "id": 409,
+    "domain": "system_interactions",
+    "front": "Why should a therapist avoid aggressive calf palpation or stretching in a patient with suspected DVT?",
+    "back": "Vigorous mobilization of a clot-containing vessel can dislodge the thrombus, risking pulmonary embolism. The patient should be referred for imaging (such as Doppler ultrasound) before any manual intervention proceeds."
+  },
+  {
+    "id": 410,
+    "domain": "system_interactions",
+    "front": "What are common cancer red flags a physical therapist should screen for in a patient with unexplained back pain?",
+    "back": "Unexplained weight loss, night pain that is unrelieved by rest or position change, history of cancer, age over 50, and constant progressive pain not linked to mechanical movement. These findings warrant physician referral."
+  },
+  {
+    "id": 411,
+    "domain": "system_interactions",
+    "front": "A patient presents with pulsatile abdominal mass and back pain that is unrelated to movement. What vascular emergency should be suspected?",
+    "back": "Abdominal aortic aneurysm (AAA). This requires immediate emergency referral, as rupture is life-threatening; palpation should be gentle and exercise should be withheld pending medical evaluation."
+  },
+  {
+    "id": 412,
+    "domain": "system_interactions",
+    "front": "Why do beta blockers blunt the expected heart rate response to exercise, and what should the therapist use instead to monitor intensity?",
+    "back": "Beta blockers reduce sympathetic stimulation of the heart, lowering resting and exercise heart rate and capping maximal heart rate. Therapists should use the Rating of Perceived Exertion (RPE) scale rather than target heart rate zones to gauge intensity."
+  },
+  {
+    "id": 413,
+    "domain": "system_interactions",
+    "front": "What tendon-related risk is associated with long-term or repeated corticosteroid use, and which tendon is most commonly affected?",
+    "back": "Corticosteroids weaken collagen structure and increase the risk of tendon rupture, most notably in the Achilles tendon. Therapists should modify loading and avoid aggressive stretching or plyometrics in patients on chronic steroid therapy."
+  },
+  {
+    "id": 414,
+    "domain": "system_interactions",
+    "front": "A patient taking warfarin reports easy bruising and occasional nosebleeds. What precautions should the therapist take during manual therapy?",
+    "back": "Use lighter-grade soft tissue and joint mobilization techniques, avoid deep tissue work or vigorous massage, and monitor for excessive bruising or bleeding, since anticoagulants increase bleeding and fall-related injury risk."
+  },
+  {
+    "id": 415,
+    "domain": "system_interactions",
+    "front": "Why are patients on anticoagulant therapy at increased fall-related risk during balance training?",
+    "back": "Even a minor fall can cause significant internal bleeding or large hematomas because clotting is impaired. Balance activities should be closely guarded and progressed cautiously with attention to environmental safety."
+  },
+  {
+    "id": 416,
+    "domain": "system_interactions",
+    "front": "What medication class commonly causes orthostatic hypotension, and what precaution should a therapist take before mobilizing these patients?",
+    "back": "Antihypertensives (especially diuretics, alpha blockers, and some calcium channel blockers) commonly cause orthostatic hypotension. The therapist should have the patient rise slowly, monitor blood pressure in supine, sitting, and standing positions, and guard closely during transfers."
+  },
+  {
+    "id": 417,
+    "domain": "system_interactions",
+    "front": "A diabetic patient reports numbness in a stocking-glove distribution in the feet. What comorbidity consideration affects gait training and footwear education?",
+    "back": "Peripheral neuropathy increases fall risk and risk of unnoticed skin breakdown or ulceration. Daily foot inspection, proper footwear, and careful sensory-based balance and gait training should be emphasized."
+  },
+  {
+    "id": 418,
+    "domain": "system_interactions",
+    "front": "What is a key sign that chest pain during exercise may represent angina rather than a musculoskeletal strain?",
+    "back": "Angina is typically described as pressure, tightness, or squeezing that is exertion-related, resolves with rest or nitroglycerin, and may radiate to the jaw, neck, or left arm, without reproduction by palpation."
+  },
+  {
+    "id": 419,
+    "domain": "system_interactions",
+    "front": "When should a physical therapist refer a patient back to their physician regarding new-onset symptoms during a plan of care?",
+    "back": "Whenever red flag symptoms emerge (unexplained weight loss, night pain, bowel/bladder changes, fever, progressive neurological deficits, or symptoms outside the expected pattern for the diagnosis) that fall outside the scope of physical therapy practice or suggest a change in medical status."
+  },
+  {
+    "id": 420,
+    "domain": "system_interactions",
+    "front": "What is the significance of bilateral lower extremity edema combined with shortness of breath and fatigue in a patient with a cardiac history?",
+    "back": "This combination suggests possible congestive heart failure exacerbation. The therapist should hold strenuous exercise, monitor vitals, and refer the patient for medical evaluation."
+  },
+  {
+    "id": 421,
+    "domain": "system_interactions",
+    "front": "Why must a therapist use caution with resistance training in a patient on long-term oral corticosteroids?",
+    "back": "Corticosteroids can cause muscle atrophy (steroid myopathy), osteoporosis, and tendon weakening, so loading should be progressed conservatively and high-impact or ballistic activities minimized."
+  },
+  {
+    "id": 422,
+    "domain": "system_interactions",
+    "front": "A patient describes progressively worsening low back pain that is worse at night and unrelieved by any position. What screening category does this fall under and what is the appropriate action?",
+    "back": "This is a red flag for possible neoplastic or systemic disease. The therapist should discontinue mechanical treatment approaches and refer the patient to their physician for further workup."
+  },
+  {
+    "id": 423,
+    "domain": "system_interactions",
+    "front": "What effect do NSAIDs have that is relevant to a therapist treating a patient after a musculoskeletal injury or surgery?",
+    "back": "NSAIDs can mask pain and inflammation, potentially allowing overexertion of healing tissue, and long-term use carries risk of gastrointestinal bleeding and renal impairment, so therapists should ask about GI symptoms and monitor tissue tolerance closely."
+  },
+  {
+    "id": 424,
+    "domain": "system_interactions",
+    "front": "How should a therapist screen for cauda equina syndrome during a lumbar spine subjective history?",
+    "back": "Ask specifically about saddle anesthesia, changes in bowel or bladder control (retention or incontinence), and bilateral leg symptoms. Any positive findings require same-day physician or emergency referral."
+  },
+  {
+    "id": 425,
+    "domain": "system_interactions",
+    "front": "What vital sign pattern combined with unilateral leg swelling should raise suspicion for pulmonary embolism secondary to DVT?",
+    "back": "Sudden onset of dyspnea, tachycardia, and pleuritic chest pain in a patient with known or suspected DVT is a medical emergency requiring immediate emergency referral, not continued physical therapy treatment."
+  },
+  {
+    "id": 426,
+    "domain": "system_interactions",
+    "front": "Why is it important for a therapist to know a patient's full medication list before beginning an exercise program?",
+    "back": "Medications can alter exercise response (beta blockers blunting heart rate), increase bleeding risk (anticoagulants), affect balance (sedatives, antihypertensives), or weaken connective tissue (corticosteroids), all of which change how exercise intensity and manual therapy should be modified."
+  },
+  {
+    "id": 427,
+    "domain": "system_interactions",
+    "front": "A patient with a history of prostate cancer reports new unrelenting thoracic back pain. What screening consideration is critical here?",
+    "back": "Metastatic bone disease should be suspected given the cancer history and constant, non-mechanical pain pattern. The therapist should refer back to the physician rather than proceeding with standard mechanical treatment."
+  },
+  {
+    "id": 428,
+    "domain": "system_interactions",
+    "front": "What is the therapist's responsibility when a patient exhibits signs and symptoms outside their expected diagnosis or plan of care?",
+    "back": "The therapist must recognize findings inconsistent with the working diagnosis, perform a systems review, and refer the patient to the appropriate medical provider, since physical therapists are trained to screen for medical conditions requiring referral, not to diagnose them."
+  },
+  {
+    "id": 429,
+    "domain": "system_interactions",
+    "front": "Why might a patient on beta blockers report a high RPE at a heart rate that still seems well below target training zones?",
+    "back": "Because beta blockers blunt the chronotropic response, the heart rate underrepresents true exertion, so RPE becomes a more accurate proxy for exercise intensity than heart rate-based formulas."
+  },
+  {
+    "id": 430,
+    "domain": "system_interactions",
+    "front": "What abdominal symptom combination in an older adult during a lumbar or hip evaluation should prompt suspicion of an abdominal aortic aneurysm rather than a musculoskeletal source?",
+    "back": "Deep, boring abdominal or back pain unrelated to movement or position, sometimes with a palpable pulsatile mass, in a patient with vascular risk factors such as smoking or hypertension, warrants urgent medical referral rather than continued musculoskeletal evaluation."
+  },
+  {
+    "id": 431,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "Which assistive device provides the most stability for a patient with poor balance and bilateral lower extremity weakness?",
+    "back": "A standard walker (or a rolling walker with a seat, for patients who need to rest) provides the widest base of support and greatest stability of the common assistive devices, more than axillary crutches, forearm crutches, or a cane."
+  },
+  {
+    "id": 432,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "How should a standard cane be measured and on which side is it used?",
+    "back": "The cane top should reach the greater trochanter with the elbow flexed about 20 to 30 degrees, and it is held in the hand opposite the involved lower extremity so the base of support widens and the reciprocal gait pattern is preserved."
+  },
+  {
+    "id": 433,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "Describe the three-point gait pattern and who it is appropriate for.",
+    "back": "Both assistive device tips (crutches or walker) and the involved limb advance together, followed by the uninvolved limb; it is used for patients who must remain fully non-weightbearing or partial weightbearing on one lower extremity."
+  },
+  {
+    "id": 434,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What is a four-point gait pattern and which patients benefit from it?",
+    "back": "One assistive device tip or crutch advances, then the opposite lower extremity, then the other device tip, then the remaining leg, so three points always contact the ground; it is a very stable pattern used for patients with poor balance or bilateral involvement who can bear weight on both legs."
+  },
+  {
+    "id": 435,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "How should axillary crutches be fitted for correct length and hand grip height?",
+    "back": "The crutch tip sits about 2 inches lateral and 6 inches anterior to the foot with 2 to 3 finger widths of clearance between the axilla and the crutch pad, and the hand grip is set so the elbow is flexed about 20 to 30 degrees."
+  },
+  {
+    "id": 436,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "Why are forearm (Lofstrand) crutches often preferred over axillary crutches for long-term ambulators?",
+    "back": "The forearm cuff frees the hands for tasks without dropping the crutch and avoids pressure on the axillary vessels and radial nerve, reducing the risk of crutch palsy seen with prolonged axillary crutch use."
+  },
+  {
+    "id": 437,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What seat depth and height guidelines are used when prescribing a standard wheelchair?",
+    "back": "Seat depth should leave about 1 to 2 finger widths of clearance behind the popliteal fossa, and seat height should allow about 2 inches of clearance between the popliteal fossa and the front edge of the seat while keeping the hips, knees, and ankles at roughly 90 degrees."
+  },
+  {
+    "id": 438,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What is the purpose of a solid seat insert or firm cushion base in wheelchair seating?",
+    "back": "It prevents hammocking of a sling seat, which would otherwise pull the hips into adduction and internal rotation and promote poor pelvic and spinal alignment."
+  },
+  {
+    "id": 439,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "Which wheelchair cushion type provides the best pressure redistribution for a patient at high risk of skin breakdown?",
+    "back": "An air-filled (dynamic) cushion, such as a ROHO cushion, offers the greatest pressure redistribution by conforming to body contours and equalizing pressure over a larger surface area, compared to foam or gel cushions."
+  },
+  {
+    "id": 440,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What wheelchair modification is indicated for a patient with a below-knee amputation to maintain proper balance?",
+    "back": "The rear axle is moved posteriorly (or amputee adapter brackets are added to move the rear wheels back) to shift the center of gravity backward and prevent the chair from tipping forward, since the residual limb and remaining leg weight are reduced."
+  },
+  {
+    "id": 441,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What is the difference between an ankle-foot orthosis (AFO) set in slight dorsiflexion versus one set in plantarflexion for a patient with dorsiflexor weakness?",
+    "back": "A solid or hinged AFO set with a slight dorsiflexion assist prevents foot drop and toe drag during swing phase, while excessive plantarflexion set in the device can push the knee into hyperextension during stance."
+  },
+  {
+    "id": 442,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "A patient ambulates with a foot slap gait deviation while wearing no orthosis. What is the most likely cause?",
+    "back": "Weak dorsiflexors (commonly from a peroneal nerve injury) allow the foot to slap down uncontrolled after heel strike instead of lowering eccentrically; a solid or articulated AFO with dorsiflexion assist typically corrects this."
+  },
+  {
+    "id": 443,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What gait deviation results from a knee-ankle-foot orthosis (KAFO) locked in full extension, and why is it used?",
+    "back": "It produces a circumducted or hip-hiked gait pattern to clear the foot during swing since the knee cannot flex; it is used for patients with quadriceps weakness or paralysis who need knee stability throughout stance."
+  },
+  {
+    "id": 444,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What is the primary difference in energy expenditure between a transtibial (below-knee) and transfemoral (above-knee) amputee during prosthetic gait?",
+    "back": "Transfemoral amputees expend significantly more energy than transtibial amputees because they must control the prosthetic knee and have lost more of their own muscular leverage, and bilateral or higher-level amputations increase energy cost further."
+  },
+  {
+    "id": 445,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "A transtibial prosthesis user shows lateral trunk bending toward the prosthetic side during stance. What is the likely cause?",
+    "back": "The prosthesis may be too short, or there may be inadequate lateral wall support or hip abductor weakness; a prosthesis that is too long can instead cause vaulting, rising onto the toes of the sound limb, or circumduction, the prosthetic limb swinging outward during its own swing phase."
+  },
+  {
+    "id": 446,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What gait deviation results from excessive toe-out alignment of the prosthetic foot in a transtibial prosthesis?",
+    "back": "It causes early knee flexion instability during stance because toe-out effectively shortens the lever arm anterior to the knee, reducing the extension moment that stabilizes the knee."
+  },
+  {
+    "id": 447,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What are the standard treatment parameters for NMES (neuromuscular electrical stimulation) used to strengthen a muscle?",
+    "back": "A biphasic pulsed current with a pulse duration around 200 to 400 microseconds, frequency of 35 to 50 Hz, on:off ratio around 1:3 to 1:5, and intensity sufficient to produce a strong, visible tetanic contraction."
+  },
+  {
+    "id": 448,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What TENS parameters are used for conventional (high-rate) pain modulation versus low-rate (acupuncture-like) TENS?",
+    "back": "Conventional TENS uses a high frequency (50 to 100+ Hz) with a short pulse duration and produces a sensory-level, non-painful tingling with rapid but short-lasting relief via the gate control mechanism; low-rate TENS uses a low frequency (1 to 5 Hz) with a longer pulse duration at a motor-level intensity, working through endorphin release with a slower onset but longer-lasting effect."
+  },
+  {
+    "id": 449,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "List absolute contraindications for electrical stimulation.",
+    "back": "A demand-type cardiac pacemaker or implanted defibrillator, application over the carotid sinus or anterior neck, over the pregnant uterus, and over areas of active cancer are all absolute contraindications to electrical stimulation."
+  },
+  {
+    "id": 450,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What is iontophoresis and what determines the polarity of the treatment electrode?",
+    "back": "Iontophoresis uses a direct current to drive charged medication ions (such as dexamethasone for anti-inflammatory effect) through the skin; the treatment electrode must carry the same charge as the medication ion so it is repelled into the tissue, for example the negative electrode is used for dexamethasone."
+  },
+  {
+    "id": 451,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What is the difference between thermal and non-thermal (pulsed) therapeutic ultrasound, and what intensity/duty cycle distinguishes them?",
+    "back": "Thermal ultrasound uses a continuous duty cycle (100 percent) at higher intensity to raise tissue temperature and increase extensibility of collagen, while non-thermal pulsed ultrasound uses a duty cycle of 20 percent or less to promote tissue healing effects like increased cell membrane permeability without significant heating."
+  },
+  {
+    "id": 452,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "How does frequency selection affect the depth of penetration in therapeutic ultrasound?",
+    "back": "A lower frequency (around 1 MHz) penetrates deeper (about 3 to 5 cm) and is used for deeper tissues, while a higher frequency (around 3 MHz) penetrates more superficially (about 1 to 2 cm) and concentrates energy closer to the skin surface."
+  },
+  {
+    "id": 453,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "List absolute contraindications for therapeutic ultrasound.",
+    "back": "Ultrasound should never be applied over the pregnant uterus, over the eyes, over a pacemaker or the thoracic region with a pacemaker present, over malignant tumors, over the epiphyseal plates in children, or directly over a healing fracture site, cemented prosthetic joints, or the gonads."
+  },
+  {
+    "id": 454,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What are the primary physiological effects of cryotherapy (cold application)?",
+    "back": "Cryotherapy causes vasoconstriction, decreased nerve conduction velocity, decreased metabolic rate and enzymatic activity, decreased muscle spasm, and an initial analgesic effect, making it useful for acute inflammation and pain."
+  },
+  {
+    "id": 455,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What conditions are contraindications to applying cryotherapy?",
+    "back": "Cryotherapy is contraindicated in patients with Raynaud's phenomenon, cold urticaria, cryoglobulinemia, paroxysmal cold hemoglobinuria, and impaired circulation or sensation, since it can cause tissue damage or an adverse vascular response in these conditions."
+  },
+  {
+    "id": 456,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What are the primary physiological effects of superficial heat (thermotherapy)?",
+    "back": "Superficial heat causes vasodilation, increased blood flow and metabolic rate, increased tissue extensibility and collagen elasticity, decreased joint stiffness, and mild analgesia, making it useful for subacute or chronic conditions and before stretching."
+  },
+  {
+    "id": 457,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "Why is superficial heat contraindicated over an area of acute inflammation or a recent injury?",
+    "back": "Heat causes vasodilation and increased blood flow, which would increase edema, bleeding, and inflammation in an acute injury; cryotherapy is preferred in the first 24 to 72 hours to promote vasoconstriction instead."
+  },
+  {
+    "id": 458,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What is the general contraindication shared by both superficial heat and cold modalities?",
+    "back": "Both are contraindicated over areas of impaired sensation or impaired circulation, over malignancy, and directly over the eyes, since the patient cannot reliably report a burn or frostbite reaction and the tissue response may be abnormal."
+  },
+  {
+    "id": 459,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "What angle of pull and force are typically used for mechanical lumbar traction to produce mechanical separation of the vertebrae?",
+    "back": "Lumbar traction typically uses a static or intermittent pull, with hips and knees flexed to flatten the lumbar lordosis. At least 25 percent of body weight overcomes trunk-table friction to produce a measurable effect, while roughly 50 percent of body weight or more is generally needed to achieve true mechanical separation of the vertebral segments."
+  },
+  {
+    "id": 460,
+    "domain": "equipment_devices_and_therapeutic_modalities",
+    "front": "List contraindications to mechanical spinal traction.",
+    "back": "Mechanical traction is contraindicated in acute spinal cord compression, spinal instability or fracture, severe osteoporosis, active malignancy in the spine, uncontrolled hypertension, and in acute inflammatory conditions such as rheumatoid arthritis affecting the cervical spine."
+  },
+  {
+    "id": 461,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What is the correct hand hygiene technique when hands are visibly soiled?",
+    "back": "Wash with soap and water for at least 20 seconds. Alcohol-based hand sanitizer is not effective against visibly soiled hands or against spore-forming organisms such as Clostridioides difficile."
+  },
+  {
+    "id": 462,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What type of isolation precaution is required for a patient with active pulmonary tuberculosis?",
+    "back": "Airborne precautions, which require a negative pressure room and an N95 respirator or higher-level mask for anyone entering the room."
+  },
+  {
+    "id": 463,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "Which organisms require droplet precautions?",
+    "back": "Organisms spread by large respiratory droplets such as influenza, pertussis, and meningococcal meningitis, requiring a surgical mask worn within about 3 feet (1 meter) of the patient."
+  },
+  {
+    "id": 464,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What precaution category applies to MRSA and VRE?",
+    "back": "Contact precautions, requiring a gown and gloves for any physical contact with the patient or contaminated surfaces, with hand hygiene before and after glove removal."
+  },
+  {
+    "id": 465,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What is the correct order for donning personal protective equipment?",
+    "back": "Gown first, then mask or respirator, then goggles or face shield, and gloves last, so gloves cover the gown cuffs."
+  },
+  {
+    "id": 466,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What is the correct order for doffing personal protective equipment?",
+    "back": "Gloves first, then goggles or face shield, then gown, and mask or respirator last, with hand hygiene performed immediately after glove removal and again after all PPE is removed."
+  },
+  {
+    "id": 467,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "Which standardized outcome measure is commonly used to assess fall risk in community-dwelling older adults?",
+    "back": "The Berg Balance Scale and the Timed Up and Go test are both commonly used, with a Timed Up and Go score greater than 12 seconds associated with increased fall risk."
+  },
+  {
+    "id": 468,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What Timed Up and Go score is generally considered indicative of increased fall risk?",
+    "back": "A time greater than 12 seconds is associated with increased fall risk in older adults."
+  },
+  {
+    "id": 469,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "Name three intrinsic risk factors for falls in older adults.",
+    "back": "Examples include impaired balance or gait, orthostatic hypotension, polypharmacy or sedative use, decreased visual acuity, and lower extremity weakness."
+  },
+  {
+    "id": 470,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "Name three extrinsic (environmental) risk factors for falls.",
+    "back": "Examples include poor lighting, loose rugs or clutter, lack of grab bars, uneven flooring, and inappropriate footwear."
+  },
+  {
+    "id": 471,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What is orthostatic hypotension and how is it defined?",
+    "back": "A drop in systolic blood pressure of at least 20 mmHg or diastolic blood pressure of at least 10 mmHg within three minutes of standing from sitting or lying, which can cause dizziness and falls."
+  },
+  {
+    "id": 472,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What should a therapist do first if a patient becomes symptomatic with orthostatic hypotension during a transfer?",
+    "back": "Lower the patient back down or return them to a seated or supine position immediately to restore cerebral perfusion and prevent a fall or loss of consciousness."
+  },
+  {
+    "id": 473,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What is the proper base of support width during a manual patient transfer to maximize stability?",
+    "back": "The base of support should be widened to approximately shoulder width, with one foot slightly forward, to increase the stability of the therapist's stance."
+  },
+  {
+    "id": 474,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What body mechanics principle reduces spinal load when lifting a patient or object?",
+    "back": "Keep the load close to the body's center of gravity, bend at the hips and knees rather than the spine, and avoid twisting the trunk during the lift."
+  },
+  {
+    "id": 475,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What is the recommended gait belt placement for a standing pivot transfer?",
+    "back": "The gait belt should be placed snugly around the patient's waist over clothing, with room for two to four fingers underneath. The therapist grasps it with an underhand grip, which provides a secure hold without compromising the clinician's own grip strength if the patient begins to fall."
+  },
+  {
+    "id": 476,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "During a sit to stand transfer, where should the therapist guard a patient with weakness on one side?",
+    "back": "The therapist should guard from the affected (weaker) side to provide support and prevent the patient from falling toward that side."
+  },
+  {
+    "id": 477,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What is the first action in the Basic Life Support (BLS) adult chain of survival upon finding an unresponsive person?",
+    "back": "Check for responsiveness and normal breathing, then call for help and activate the emergency response system (or send someone to call) before beginning chest compressions if there is no pulse."
+  },
+  {
+    "id": 478,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What is the recommended compression rate and depth for adult CPR?",
+    "back": "100 to 120 compressions per minute at a depth of at least 2 inches (5 cm) but no more than 2.4 inches (6 cm), allowing full chest recoil between compressions."
+  },
+  {
+    "id": 479,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What is the compression to ventilation ratio for single-rescuer adult CPR?",
+    "back": "30 compressions to 2 breaths for a single rescuer performing adult CPR without an advanced airway in place."
+  },
+  {
+    "id": 480,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What should a therapist do if an automated external defibrillator (AED) advises no shock?",
+    "back": "Immediately resume chest compressions and continue CPR, rechecking the rhythm as prompted by the AED approximately every two minutes."
+  },
+  {
+    "id": 481,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What are the seven APTA Core Values for the physical therapy profession?",
+    "back": "Accountability, Altruism, Compassion and Caring, Excellence, Professional Duty, Integrity, and Social Responsibility are the APTA Core Values that guide professional behavior."
+  },
+  {
+    "id": 482,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "According to the APTA Code of Ethics, to whom does a physical therapist owe the primary duty of care?",
+    "back": "The patient or client, whose interests must be placed above the therapist's own financial, institutional, or personal interests."
+  },
+  {
+    "id": 483,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What ethical principle requires a physical therapist to disclose a treatment error to the patient?",
+    "back": "The principle of accountability and honesty requires the therapist to disclose any error that affects the patient's care in a timely and transparent manner."
+  },
+  {
+    "id": 484,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "Under most state practice acts, can a Physical Therapist Assistant (PTA) perform an initial evaluation?",
+    "back": "No. Evaluation, initial examination, and establishment of the plan of care are within the sole scope of the physical therapist and cannot be delegated to a PTA."
+  },
+  {
+    "id": 485,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What is required of a physical therapist regarding supervision of a PTA treating a patient?",
+    "back": "The physical therapist must provide periodic reexamination and documented supervision, with the frequency of required on-site or direct supervision varying by state practice act."
+  },
+  {
+    "id": 486,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What does the acronym SOAP stand for in clinical documentation?",
+    "back": "Subjective, Objective, Assessment, and Plan, a standardized format for organizing progress notes and treatment documentation."
+  },
+  {
+    "id": 487,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What type of information belongs in the Subjective section of a SOAP note?",
+    "back": "The patient's own reported symptoms, pain level, functional complaints, and statements about their condition since the last visit."
+  },
+  {
+    "id": 488,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What type of information belongs in the Objective section of a SOAP note?",
+    "back": "Measurable and observable data such as range of motion, manual muscle test grades, vital signs, gait distance, and specific interventions performed."
+  },
+  {
+    "id": 489,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "Under HIPAA, what is considered protected health information (PHI)?",
+    "back": "Any individually identifiable health information related to a patient's past, present, or future physical or mental health condition, treatment, or payment for care, transmitted or maintained in any form."
+  },
+  {
+    "id": 490,
+    "domain": "safety_protection_and_professional_responsibilities",
+    "front": "What are the essential elements required for valid informed consent before initiating physical therapy treatment?",
+    "back": "The patient must be given adequate information about the proposed intervention, its risks and benefits, and reasonable alternatives, must have decision-making capacity, and must voluntarily agree without coercion."
+  },
+  {
+    "id": 491,
+    "domain": "research_and_evidence_based_practice",
+    "front": "In the traditional hierarchy of evidence, what study design sits at the top as the strongest source of evidence for treatment effectiveness?",
+    "back": "Systematic reviews and meta-analyses of randomized controlled trials sit at the top, since they pool results across multiple RCTs to produce the most precise and generalizable estimate of effect."
+  },
+  {
+    "id": 492,
+    "domain": "research_and_evidence_based_practice",
+    "front": "What is the defining feature of a randomized controlled trial (RCT) that distinguishes it from a cohort study?",
+    "back": "In an RCT the researcher randomly assigns participants to intervention or control groups, which controls for confounding variables, while in a cohort study exposure or treatment is observed rather than assigned."
+  },
+  {
+    "id": 493,
+    "domain": "research_and_evidence_based_practice",
+    "front": "How does a case-control study differ from a cohort study in its basic design direction?",
+    "back": "A case-control study starts with an outcome (cases with the condition versus controls without it) and looks backward for exposures, while a cohort study starts with an exposure and follows participants forward to see who develops the outcome."
+  },
+  {
+    "id": 494,
+    "domain": "research_and_evidence_based_practice",
+    "front": "What is a case series and what is its main limitation as a form of evidence?",
+    "back": "A case series is a descriptive report of outcomes for a group of patients who received the same intervention, with no comparison group, so it cannot establish causation and is considered low-level evidence."
+  },
+  {
+    "id": 495,
+    "domain": "research_and_evidence_based_practice",
+    "front": "Define reliability as it applies to an outcome measure used in physical therapy.",
+    "back": "Reliability is the consistency or reproducibility of a measurement, including test-retest reliability (same rater over time), intra-rater reliability (same rater repeated), and inter-rater reliability (different raters), often quantified with an intraclass correlation coefficient."
+  },
+  {
+    "id": 496,
+    "domain": "research_and_evidence_based_practice",
+    "front": "What is construct validity and how does it differ from criterion validity?",
+    "back": "Construct validity is the extent to which a tool measures the theoretical construct it claims to measure, whereas criterion validity is the extent to which a tool's scores correlate with a recognized gold standard measure of the same construct."
+  },
+  {
+    "id": 497,
+    "domain": "research_and_evidence_based_practice",
+    "front": "What does the minimal clinically important difference (MCID) represent for an outcome measure?",
+    "back": "The MCID is the smallest change in a measure's score that a patient would perceive as meaningful or beneficial, distinguishing a clinically important change from one that is merely statistically significant."
+  },
+  {
+    "id": 498,
+    "domain": "research_and_evidence_based_practice",
+    "front": "A special test has high sensitivity but low specificity. What does this mean for its clinical use?",
+    "back": "A highly sensitive test has few false negatives, so a negative result helps rule out the condition (mnemonic SnNout), but its low specificity means a positive result is not very useful for ruling the condition in due to a high false positive rate."
+  },
+  {
+    "id": 499,
+    "domain": "research_and_evidence_based_practice",
+    "front": "How is a positive likelihood ratio (LR+) interpreted, and what does an LR+ greater than 10 indicate?",
+    "back": "The LR+ tells how much a positive test result increases the odds of the target condition being present, and an LR+ greater than 10 represents a large and often conclusive shift toward ruling the condition in."
+  },
+  {
+    "id": 500,
+    "domain": "research_and_evidence_based_practice",
+    "front": "In research statistics, what does a 95% confidence interval that does not cross zero (for a mean difference) tell you about statistical significance?",
+    "back": "It indicates the result is statistically significant at the p less than 0.05 level, because a confidence interval excluding the null value of zero shows the true effect is unlikely to be no difference at all."
+  }
+]
